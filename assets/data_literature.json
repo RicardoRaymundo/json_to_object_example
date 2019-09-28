@@ -1,0 +1,1466 @@
+{
+  "id": "",
+  "title": "Literatura",
+  "description": "Literatura é muito mais do que livros e história, é um encontro com a nossa cultura. Se você também já se perdeu no meio de todo aquele monte de autores, períodos e tipos de textos, este curso é para você. Cola aí e vem aprender Literatura de um jeito mais divertido com a gente!",
+  "author": "Fabio Carradini",
+  "author_info": "Fabio Carradini é um verdadeiro showman em pessoa quando o assunto é dar aula. Se tem alguém conhecido e amado entre os jovens, esse cara é o Prof. Fabio. Todos que já tiveram aula com ele jamais esquecem do seu nome e do seu poder de oratória. Sem contar as risadas que ele arranca da galera toda hora.",
+  "year": 2019,
+  "lessons": [
+    {
+      "id": "1",
+      "title": "O que é Literatura?",
+      "description": "Entenda a importância da Literatura e como ela é estudada.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Introdução",
+          "description": "Introdução sobre a importância de se aprender Literatura.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/333121871/31cc22b74d",
+          "youtube": "https://www.youtube.com/watch?v=7R_RVXAp3yA&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=35",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Por que estudamos literatura?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Para conhecer os autores que marcaram a História do mundo."
+                },
+                {
+                  "id": "b",
+                  "title": "Para conhecer novas histórias e ganhar mais cultura."
+                },
+                {
+                  "id": "c",
+                  "title": "Para conhecer os autores que revolucionaram a Literatura Brasileira. "
+                },
+                {
+                  "id": "d",
+                  "title": "Para conhecer nossos antepassados, nossa cultura e conhecer a nós mesmos."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Quantos movimentos literários existem?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "5 movimentos literários"
+                },
+                {
+                  "id": "b",
+                  "title": "10 movimentos literários"
+                },
+                {
+                  "id": "c",
+                  "title": "7 movimentos literários"
+                },
+                {
+                  "id": "d",
+                  "title": "2 movimentos literários"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Escolas Literárias",
+          "description": "Aprenda mais sobre os movimentos literários.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/333121871/31cc22b74d",
+          "youtube": "https://www.youtube.com/watch?v=jnP1tlA-EEM&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=36",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Do que também são chamados os movimentos literários?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Escolas literárias"
+                },
+                {
+                  "id": "b",
+                  "title": "Épocas literárias"
+                },
+                {
+                  "id": "c",
+                  "title": "Discursos literários"
+                },
+                {
+                  "id": "d",
+                  "title": "Períodos literários"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que os movimentos literários têm em comum com um pêndulo?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Eles se movem constantemente."
+                },
+                {
+                  "id": "b",
+                  "title": "Os movimentos literários circulam por apenas dois “batentes”."
+                },
+                {
+                  "id": "c",
+                  "title": "Mudam toda hora ao longo do tempo."
+                },
+                {
+                  "id": "d",
+                  "title": "Estão sempre divididos em dois movimentos."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Quais são as duas características principais que utilizamos para dividir e memorizar os movimentos literários?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Decoração e Dedução."
+                },
+                {
+                  "id": "b",
+                  "title": "Emoção e Decoração."
+                },
+                {
+                  "id": "c",
+                  "title": "Razão e Intuição."
+                },
+                {
+                  "id": "d",
+                  "title": "Emoção e Razão."
+                }
+              ]
+            }
+          ]
+        }
+
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Trovadorismo + Cantigas",
+      "description": "Entenda o Trovadorismo e as cantigas.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Trovadorismo",
+          "description": "Vamos aprender sobre o primeiro movimento literário da História.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/333128531/b88f845b66",
+          "youtube": "https://www.youtube.com/watch?v=GsrqfVmConA&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=37",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O primeiro movimento literário aconteceu em qual período da história?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Idade Média."
+                },
+                {
+                  "id": "b",
+                  "title": "Idade Moderna."
+                },
+                {
+                  "id": "c",
+                  "title": "Idade Antiga."
+                },
+                {
+                  "id": "d",
+                  "title": "Idade Contemporânea."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Por que as pessoas não consumiam literatura naquela época?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "As pessoas não gostavam de ler."
+                },
+                {
+                  "id": "b",
+                  "title": "A maioria das pessoas não tinha dinheiro para consumir cultura."
+                },
+                {
+                  "id": "c",
+                  "title": "A maioria das pessoas era analfabeta e não conseguiria ler uma poesia ou um livro."
+                },
+                {
+                  "id": "d",
+                  "title": "A literatura era divulgada apenas entre a nobreza."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Como os poetas divulgavam suas criações na Idade Média?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Lançavam livros de poesia."
+                },
+                {
+                  "id": "b",
+                  "title": "Eles transformavam as poesias em música e apresentavam ao público para facilitar a compreensão das pessoas."
+                },
+                {
+                  "id": "c",
+                  "title": "Liam em voz alta para as pessoas."
+                },
+                {
+                  "id": "d",
+                  "title": "Colocavam seus poemas nas paredes das ruas."
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "title": "Por que o primeiro movimento literário se chamava Trovadorismo?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Porque a música era inspirada pelos sons dos trovões."
+                },
+                {
+                  "id": "b",
+                  "title": "Porque o sobrenome do primeiro poeta da época era Trovador."
+                },
+                {
+                  "id": "c",
+                  "title": "Porque esse era o nome da cidade em que o movimento começou."
+                },
+                {
+                  "id": "d",
+                  "title": "Porque os poetas que \"musicavam\" suas poesias eram conhecidos como trovadores."
+                }
+              ]
+            },
+            {
+              "id": "5",
+              "title": "Como eram chamadas as poesias no Trovadorismo?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Poesias trovadoras."
+                },
+                {
+                  "id": "b",
+                  "title": "Cantigas."
+                },
+                {
+                  "id": "c",
+                  "title": "Trovadorias."
+                },
+                {
+                  "id": "d",
+                  "title": "Poesias musicadas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Cantigas",
+          "description": "Como eram criadas as cantigas durante o Trovadorismo e de quais elementos elas eram formadas.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/333129261/4911740f4d",
+          "youtube": "https://www.youtube.com/watch?v=7pD06FS9nmQ&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=38",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que é uma cantiga da guarvaia?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Cantiga (ou poema) criada por trovadores sobre seus amores platônicos, fazendo a idealização da mulher."
+                },
+                {
+                  "id": "b",
+                  "title": "Cantiga (ou poema) criada por mulheres apaixonadas por homens da nobreza."
+                },
+                {
+                  "id": "c",
+                  "title": "Cantiga (ou poema) criada por casais apaixonados."
+                },
+                {
+                  "id": "d",
+                  "title": "Cantiga (ou poema) criada por trovadores que precisavam dizer adeus à mulher amada."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que é um verso?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "O parágrafo de um poema."
+                },
+                {
+                  "id": "b",
+                  "title": "O trecho de uma música."
+                },
+                {
+                  "id": "c",
+                  "title": "Uma linha de um poema."
+                },
+                {
+                  "id": "d",
+                  "title": "As rimas de uma cantiga."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "O que é poesia?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Poesia são textos construídos por meio de versos criados com base em palavras, sons e tamanhos específicos."
+                },
+                {
+                  "id": "b",
+                  "title": "Poesia é um texto construído com versos românticos."
+                },
+                {
+                  "id": "c",
+                  "title": "Poesia são textos construídos por meio de versos sem rima, mas com sentimento."
+                },
+                {
+                  "id": "d",
+                  "title": "Poesia são textos profundos construídos para passar mensagens complexas."
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "title": " O que é prosa?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "É uma história de mais ou menos duas páginas."
+                },
+                {
+                  "id": "b",
+                  "title": "É uma conversa."
+                },
+                {
+                  "id": "c",
+                  "title": "É quando escrevemos sem medir número de palavras, de linhas ou de nada."
+                },
+                {
+                  "id": "d",
+                  "title": "É quando escrevemos medindo o número de linhas, mas com quantas palavras forem necessárias."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Recursos dos trovadores",
+          "description": "Os recursos utilizados pelos trovadores para facilitar a memorização das cantigas.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/333129865/42d1c88a79",
+          "youtube": "https://www.youtube.com/watch?v=XwwZHD9Iwic&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=39",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que é um verso redondilho?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "É um verso redondo."
+                },
+                {
+                  "id": "b",
+                  "title": "É um verso que rima perfeitamente com todos os outros."
+                },
+                {
+                  "id": "c",
+                  "title": "É um verso curto formado por no máximo cinco sílabas."
+                },
+                {
+                  "id": "d",
+                  "title": "É um verso curto e de fácil memorização, formado por cinco ou sete sílabas."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Quais são os 4 tipos de cantiga?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Cantiga de idealização, cantiga de amigo, cantiga de escárnio e cantiga de maldizer."
+                },
+                {
+                  "id": "b",
+                  "title": "Cantiga de amor, cantiga de amante, cantiga de escárnio e cantiga de maldizer."
+                },
+                {
+                  "id": "c",
+                  "title": "Cantiga de amor, cantiga de amigo, cantiga de crítica e cantiga de maldizer."
+                },
+                {
+                  "id": "d",
+                  "title": "Cantiga de amor, cantiga de amigo, cantiga sem nome e cantiga nomeada."
+                }
+              ]
+            }
+          ]
+        }
+
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Diferentes cantigas + Humanismo",
+      "description": "Entenda a diferença entre os tipos de cantigas do Trovadorismo e aprenda sobre o Humanismo.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Amor ou amigo?",
+          "description": "Objetivo e características principais dos tipos de cantigas do Trovadorismo: amor e amigo.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/333130226/1724ff0fba",
+          "youtube": "https://www.youtube.com/watch?v=WakRSmT2Otc&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=40",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Sobre o que eram as cantigas de amor?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Um homem apaixonado por uma mulher."
+                },
+                {
+                  "id": "b",
+                  "title": "Um homem apaixonado por uma mulher que ele não pode ter."
+                },
+                {
+                  "id": "c",
+                  "title": "Um homem apaixonado por mais de uma mulher."
+                },
+                {
+                  "id": "d",
+                  "title": "Um homem apaixonado por uma mulher, mas sem coragem de admitir para ela."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Como eram as cantigas de amigo?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Uma mulher escrevia sobre seus sentimentos de amor platônico por um homem."
+                },
+                {
+                  "id": "b",
+                  "title": "Uma mulher escrevia sobre seus sentimentos de desejo por um homem."
+                },
+                {
+                  "id": "c",
+                  "title": "Um homem escrevia sobre seus sentimentos por uma amante."
+                },
+                {
+                  "id": "d",
+                  "title": "Homem traduzia os sentimentos de uma mulher falando sobre o amor físico."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Escárnio ou maldizer?",
+          "description": "Objetivo e características principais dos tipos de cantigas do Trovadorismo: escárnio e maldizer.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/333130950/eee3fd5e7d",
+          "youtube": "https://www.youtube.com/watch?v=Xli6ofSl-WA&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=41",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Sobre o que eram as cantigas de escárnio?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Críticas sobre a nobreza."
+                },
+                {
+                  "id": "b",
+                  "title": "Críticas nomeadas sobre inimigos."
+                },
+                {
+                  "id": "c",
+                  "title": "Críticas sem nome sobre defeitos de alguma pessoa."
+                },
+                {
+                  "id": "d",
+                  "title": "Críticas sobre um homem que deixava uma mulher."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Sobre o que eram as cantigas de maldizer?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Críticas nomeadas sobre defeitos de alguma pessoa."
+                },
+                {
+                  "id": "b",
+                  "title": "Críticas de uma mulher sobre um homem."
+                },
+                {
+                  "id": "c",
+                  "title": "Críticas de um homem sobre traição."
+                },
+                {
+                  "id": "d",
+                  "title": "Críticas de um homem sobre o marido da mulher que amava."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Segundo Movimento Literário",
+          "description": "Vamos aprender sobre o segundo movimento literário da História.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/333131625/759cb297de",
+          "youtube": "https://www.youtube.com/watch?v=DU6nMOxJC9E&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=42",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que estava acontecendo no mundo durante o segundo movimento literário?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "A descoberta do ouro."
+                },
+                {
+                  "id": "b",
+                  "title": "Primeira Guerra Mundial."
+                },
+                {
+                  "id": "c",
+                  "title": "As grandes navegações."
+                },
+                {
+                  "id": "d",
+                  "title": "Inquisição da Igreja."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual é a característica mais importante do movimento Humanismo?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Ser humano e aceitar seus defeitos."
+                },
+                {
+                  "id": "b",
+                  "title": "A valorização do Deus criador do homem."
+                },
+                {
+                  "id": "c",
+                  "title": "A valorização do homem e de suas imperfeições."
+                },
+                {
+                  "id": "d",
+                  "title": "A técnica e a valorização do homem."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Qual é o nome da poesia escrita durante o Humanismo?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Poesia humanista."
+                },
+                {
+                  "id": "b",
+                  "title": "Poesia palaciana."
+                },
+                {
+                  "id": "c",
+                  "title": "Poesia palacial."
+                },
+                {
+                  "id": "d",
+                  "title": "Poesia humanitária."
+                }
+              ]
+            }
+          ]
+        }
+
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Humanismo + Gil Vicente",
+      "description": "Entenda melhor o Humanismo e conheça seu principal autor.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Características de Humanismo",
+          "description": "Características mais importantes do Humanismo.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/333143366/e68c981f50",
+          "youtube": "https://www.youtube.com/watch?v=MK1745QwTNU&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=43",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Onde a poesia era consumida durante o Humanismo?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Nas ruas."
+                },
+                {
+                  "id": "b",
+                  "title": "Nos teatros."
+                },
+                {
+                  "id": "c",
+                  "title": "No palácio."
+                },
+                {
+                  "id": "d",
+                  "title": "Nas casas das pessoas."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual a principal diferença entre a poesia do Trovadorismo e do Humanismo?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "A poesia palaciana não utiliza mais a música."
+                },
+                {
+                  "id": "b",
+                  "title": "A poesia palaciana não utiliza mais rimas."
+                },
+                {
+                  "id": "c",
+                  "title": "A poesia palaciana não fala sobre religião."
+                },
+                {
+                  "id": "d",
+                  "title": "A poesia palaciana não conta mais o número de versos."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "O que é verdade sobre o artificialismo amoroso no Humanismo?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "O amor da poesia palaciana era mais profundo do que antigamente."
+                },
+                {
+                  "id": "b",
+                  "title": "O amor da poesia palaciana estava mais ligado a interesses pessoais do que a sentimentos verdadeiro."
+                },
+                {
+                  "id": "c",
+                  "title": "O amor da poesia palaciana era uma ficção criada pelos homens."
+                },
+                {
+                  "id": "d",
+                  "title": "O amor da poesia palaciana era uma criação apenas para ganhar dinheiro."
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "title": "O que é medida velha?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Uma medida que já não servia mais para a poesia."
+                },
+                {
+                  "id": "b",
+                  "title": "Um tipo de poesia palaciana."
+                },
+                {
+                  "id": "c",
+                  "title": "Poesias feitas com no mínimo 10 versos."
+                },
+                {
+                  "id": "d",
+                  "title": "A mesma coisa que os “versos redondilhos”, só que com outro nome."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Gil Vicente",
+          "description": "A história de Gil Vicente, autor mais importante do Humanismo.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/333144267/a8d003a1af",
+          "youtube": "https://www.youtube.com/watch?v=EPaIoH3OwzM&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=44",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que o autor Gil Vicente era considerado?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "O pai do Humanismo."
+                },
+                {
+                  "id": "b",
+                  "title": "O pai da Literatura Brasileira."
+                },
+                {
+                  "id": "c",
+                  "title": "O pai do teatro em Língua Portuguesa."
+                },
+                {
+                  "id": "d",
+                  "title": "O pai da poesia palaciana."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Para que o rei utilizava o teatro de Gil Vicente?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Para criticar a nobreza por meio da literatura sem perder o apoio financeiro das pessoas."
+                },
+                {
+                  "id": "b",
+                  "title": "Para criticar seus inimigos anonimamente."
+                },
+                {
+                  "id": "c",
+                  "title": "Para elogiar suas amantes sem que a rainha soubesse."
+                },
+                {
+                  "id": "d",
+                  "title": "Para contar as histórias de suas aventuras pelas guerras."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Qual o nome da obra mais importante de Gil Vicente?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "A Barca do Inferno."
+                },
+                {
+                  "id": "b",
+                  "title": "O Auto da Barca do Inferno."
+                },
+                {
+                  "id": "c",
+                  "title": "O Auto do Juízo Final."
+                },
+                {
+                  "id": "d",
+                  "title": "O Auto da Barca."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Auto da Barca do Inferno",
+          "description": "O Auto da Barca do Inferno e a transformação do teatro brasileiro.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/333144905/35699f2629",
+          "youtube": "https://www.youtube.com/watch?v=UWdWRxlcj4M&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=45",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Como era o teatro antes de Gil Vicente?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Os atores seguiam roteiros diferentes."
+                },
+                {
+                  "id": "b",
+                  "title": "Os atores reproduziam as mesmas falas em todas as suas apresentações."
+                },
+                {
+                  "id": "c",
+                  "title": "Os atores obedeciam às instruções de um diretor."
+                },
+                {
+                  "id": "d",
+                  "title": "Os atores improvisavam a peça com base em um tema."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual é a novidade introduzida por Gil Vicente no teatro?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Diretor de teatro."
+                },
+                {
+                  "id": "b",
+                  "title": "Novas peças de teatro."
+                },
+                {
+                  "id": "c",
+                  "title": "Texto teatral."
+                },
+                {
+                  "id": "d",
+                  "title": "O teatro poético."
+                }
+              ]
+            }
+          ]
+        }
+
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Classicismo + Sonetos",
+      "description": "Entenda o Classicismo e o formato de texto utilizado na época.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Terceiro Movimento Literário",
+          "description": "Vamos conhecer o terceiro movimento literário da História.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/333145484/36a967dea6",
+          "youtube": "https://www.youtube.com/watch?v=d3Se2uycb6g&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=46",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Qual o nome do terceiro movimento literário?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Classicismo."
+                },
+                {
+                  "id": "b",
+                  "title": "Clássico."
+                },
+                {
+                  "id": "c",
+                  "title": "Classicista."
+                },
+                {
+                  "id": "d",
+                  "title": "Classismo."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que é mitologia?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Histórias inventadas pelos gregos para as crianças."
+                },
+                {
+                  "id": "b",
+                  "title": "Fantasia explicada para dar sentido àquilo que não podia ser explicado pelo homem."
+                },
+                {
+                  "id": "c",
+                  "title": "Poesias criadas para explicar o universo."
+                },
+                {
+                  "id": "d",
+                  "title": "Textos pagãos usados para cultuar outros deuses."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Qual é o período histórico do Classicismo?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Clássico."
+                },
+                {
+                  "id": "b",
+                  "title": "Idade Antiga."
+                },
+                {
+                  "id": "c",
+                  "title": "Idade Média."
+                },
+                {
+                  "id": "d",
+                  "title": "Renascimento."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Classicismo",
+          "description": "O que é Classicismo e quais são suas características principais.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/333172090/7d7c00f237",
+          "youtube": "https://www.youtube.com/watch?v=CzUtrBks_5c&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=47",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que é um clássico?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Algo que foi feito com tanta qualidade que resistiu ao tempo."
+                },
+                {
+                  "id": "b",
+                  "title": "Algo que ficou velho e ultrapassado com o tempo."
+                },
+                {
+                  "id": "c",
+                  "title": "Algo que é guardamos para lembrar do passado."
+                },
+                {
+                  "id": "d",
+                  "title": "Algo que é atualizado e recriado ao longo do tempo."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual era a prioridade do Classicismo?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "A busca pelo homem."
+                },
+                {
+                  "id": "b",
+                  "title": "A busca pela perfeição."
+                },
+                {
+                  "id": "c",
+                  "title": "A busca pelo que é antigo."
+                },
+                {
+                  "id": "d",
+                  "title": "A busca pela arte."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Como o Classicismo selecionava os melhores poetas?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Criando competições entre os poetas."
+                },
+                {
+                  "id": "b",
+                  "title": "Dando desafios maiores para os poetas se superarem sempre."
+                },
+                {
+                  "id": "c",
+                  "title": "Observando quem eram os mais populares para a nobreza."
+                },
+                {
+                  "id": "d",
+                  "title": "Aumentando os versos dos poemas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Versos",
+          "description": "A lógica de escrita de versos utilizada pelos poetas do Classicismo.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/333172841/16ab403042",
+          "youtube": "https://www.youtube.com/watch?v=DerybTK96dY&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=48",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Como eram chamados os versos durante o Classicismo?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Versos clássicos."
+                },
+                {
+                  "id": "b",
+                  "title": "Versos declassicos."
+                },
+                {
+                  "id": "c",
+                  "title": "Versos classicistas."
+                },
+                {
+                  "id": "d",
+                  "title": "Versos decassílabos."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que é um soneto?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Um poema composto por 15 versos."
+                },
+                {
+                  "id": "b",
+                  "title": "Um poema composto por 14 versos."
+                },
+                {
+                  "id": "c",
+                  "title": "Um poema composto por 7 versos."
+                },
+                {
+                  "id": "d",
+                  "title": "Um poema composto pelo dobro de versos."
+                }
+              ]
+            }
+          ]
+        }
+
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
