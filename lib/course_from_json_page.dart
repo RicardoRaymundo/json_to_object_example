@@ -4,7 +4,7 @@ import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'package:json_to_object_example/lesson.dart';
+import 'package:json_to_object_example/lms/lesson.dart';
 
 Future<List<Course>> fetchPhotos(http.Client client) async {
   final response =

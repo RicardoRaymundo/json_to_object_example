@@ -1,4 +1,4 @@
-import 'package:json_to_object_example/lesson.dart';
+import 'package:json_to_object_example/lms/lesson.dart';
 
 class Course {
   String id;
@@ -14,11 +14,12 @@ class Course {
   }
 
   void _config(Map<String, dynamic> data) {
-    List<Lesson> listLesson = [];
     int len = data['lessons'].length;
-    for (int i = 0; i < len; i++) {
-      listLesson.add(Lesson.data(data['lessons'][i]));
-    }
+
+    // Converte o List<Map<String, dynamic> em uma List<Lesson>.
+    final List<Lesson> listData = List.generate(len, (i) {
+      return Lesson.generate(data['lessons'][i]);
+    });
 
     this.id = data['id'] as String;
     this.title = data['title'] as String;
@@ -26,10 +27,10 @@ class Course {
     this.author = data['author'] as String;
     this.authorInfo = data['author_info'] as String;
     this.year = data['year'] as int;
-    this.lessons = listLesson;
+    this.lessons = listData;
   }
 
-  factory Course.data(Map<String, dynamic> data) {
+  factory Course.generate(Map<String, dynamic> data) {
     return Course(data);
   }
 }

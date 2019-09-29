@@ -37,3 +37,5 @@ class _MainPageState extends State<_MainPage> {
     );
   }
 }
+
+// https://medium.com/@muddassirm/load-json-data-in-flutter-in-different-ways-e3312e6a317a
