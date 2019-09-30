@@ -1,10 +1,8 @@
-import 'alternative.dart';
-
-class Answers {
+class TestAlternative {
   String id;
   String title;
 
-  Answers(Map<String, dynamic> data) {
+  TestAlternative(Map<String, dynamic> data) {
     this._config(data);
   }
 
@@ -14,7 +12,7 @@ class Answers {
     this.title = data['title'] as String;
   }
 
-  factory Answers.generate(Map<String, dynamic> data) {
-    return Answers(data);
+  factory TestAlternative.generate(Map<String, dynamic> data) {
+    return TestAlternative(data);
   }
 }
