@@ -1,39 +1,47 @@
 import 'package:flutter/material.dart';
-import 'package:json_to_object_example/other_example_page.dart';
+import 'package:flutter/services.dart';
+import 'package:json_to_object_example/page_splashscreen.dart';
+import 'package:json_to_object_example/theme/theme_config.dart';
+import 'package:json_to_object_example/theme/theme_select.dart';
 
-void main() => runApp(Main());
+void main() {
+  //Configura a orientação inical da aplicação
+  SystemChrome.setPreferredOrientations([
+    DeviceOrientation.portraitUp,
+  ]);
 
-class Main extends StatelessWidget {
+  runApp(
+
+    /// Configura o tema inical da aplicação
+    ThemeConfig(
+      initialTheme: ThemeAspect.DARK,
+      child: Main(),
+    ),
+  );
+}
+
+class Main extends StatefulWidget {
+  @override
+  _MainState createState() => _MainState();
+}
+
+class _MainState extends State<Main> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
+      title: 'json loader',
+      theme: ThemeConfig.of(context),
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+        body: PageSplashScreen(),
       ),
-      home: _MainPage(title: 'Flutter Demo Home Page'),
     );
   }
 }
 
-class _MainPage extends StatefulWidget {
-  _MainPage({Key key, this.title}) : super(key: key);
-  final String title;
 
-  @override
-  _MainPageState createState() => _MainPageState();
-}
-
-class _MainPageState extends State<_MainPage> {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text(widget.title),
-      ),
-      body: OtherExamplePage(),
-    );
-  }
-}
+/// matrix_example
+/// course_load_json_example
+/// course_load_json_section_example
 
 // https://medium.com/@muddassirm/load-json-data-in-flutter-in-different-ways-e3312e6a317a

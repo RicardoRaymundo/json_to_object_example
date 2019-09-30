@@ -1,0 +1,93 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" data-name="Layer 1" id="Layer_1"
+    viewBox="0 0 390 390" xmlns="http://www.w3.org/2000/svg">
+    <circle style="fill:url(#linear-gradient-5)" cx="202.43" cy="226.75" r="121.42"
+        transform="translate(-3.75 3.4) rotate(-0.95)" />
+    <circle style="fill:url(#linear-gradient-6)" cx="202.43" cy="226.75" r="114.86"
+        transform="matrix(1, -0.02, 0.02, 1, -3.75, 3.4)" />
+    <circle style="fill:url(#linear-gradient-8)" cx="202.43" cy="226.75" r="77.15"
+        transform="translate(-51.31 394.11) rotate(-81.65)" />
+    <circle style="fill:url(#linear-gradient-9)" cx="202.43" cy="226.75" r="65.1"
+        transform="translate(-49.42 396.93) rotate(-82.29)" />
+    <defs>
+        <linearGradient gradientUnits="userSpaceOnUse" id="linear-gradient" x1="253.79" x2="253.79"
+            y1="2.81" y2="60.2">
+            <stop offset="0" stop-color="#ff2b2b" />
+            <stop offset="1" stop-color="#9e1c1f" />
+        </linearGradient>
+        <linearGradient gradientTransform="matrix(-1, 0, 0, 1, -5146.36, 0)"
+            gradientUnits="userSpaceOnUse" id="linear-gradient-2" x1="-5437.26" x2="-5437.26"
+            y1="17.98" y2="75.43">
+            <stop offset="0" stop-color="#ffe2d4" />
+            <stop offset="1" stop-color="#a69987" />
+        </linearGradient>
+        <linearGradient id="linear-gradient-3" x1="-5363.03" x2="-5363.03" y1="17.98" y2="75.43"
+            xlink:href="#linear-gradient-2" />
+        <linearGradient gradientUnits="userSpaceOnUse" id="linear-gradient-4" x1="204.8" x2="204.8"
+            y1="82.33" y2="129.06">
+            <stop offset="0" stop-color="#fff23f" />
+            <stop offset="1" stop-color="#cc9636" />
+        </linearGradient>
+        <linearGradient gradientTransform="translate(3.81 -3.34) rotate(0.95)"
+            gradientUnits="userSpaceOnUse" id="linear-gradient-5" x1="202.43" x2="202.43"
+            y1="202.85" y2="442.79">
+            <stop offset="0" stop-color="#dbb03f" />
+            <stop offset="1" stop-color="#cc9636" />
+        </linearGradient>
+        <linearGradient gradientTransform="translate(3.81 -3.34) rotate(0.95)"
+            id="linear-gradient-6" x1="202.43" x2="202.43" y1="204.14" y2="431.12"
+            xlink:href="#linear-gradient-4" />
+        <linearGradient gradientUnits="userSpaceOnUse" id="linear-gradient-7" x1="202.07"
+            x2="202.07" y1="257.21" y2="40.09">
+            <stop offset="0" stop-color="#fff8ba" />
+            <stop offset="1" stop-color="#ffdb14" />
+        </linearGradient>
+        <linearGradient gradientTransform="translate(397.38 -6.47) rotate(81.65)"
+            gradientUnits="userSpaceOnUse" id="linear-gradient-8" x1="202.43" x2="202.43"
+            y1="298.62" y2="148.39">
+            <stop offset="0" stop-color="#ffffa7" />
+            <stop offset="1" stop-color="#cc9636" />
+        </linearGradient>
+        <linearGradient gradientTransform="translate(399.97 -4.27) rotate(82.29)"
+            gradientUnits="userSpaceOnUse" id="linear-gradient-9" x1="202.43" x2="202.43" y1="182"
+            y2="262">
+            <stop offset="0" stop-color="#ffed47" />
+            <stop offset="1" stop-color="#ffdb14" />
+        </linearGradient>
+        <linearGradient id="linear-gradient-10" x1="202.42" x2="202.42" y1="255.91" y2="178.29"
+            xlink:href="#linear-gradient-7" />
+        <linearGradient id="linear-gradient-11" x1="154.16" x2="154.16" y1="22.08" y2="143.48"
+            xlink:href="#linear-gradient" />
+        <linearGradient gradientUnits="userSpaceOnUse" id="linear-gradient-12" x1="117.05"
+            x2="117.05" y1="22.08" y2="143.48">
+            <stop offset="0" stop-color="#ffe2d4" />
+            <stop offset="1" stop-color="#dbbfac" />
+        </linearGradient>
+        <linearGradient id="linear-gradient-13" x1="191.27" x2="191.27" y1="22.08" y2="143.48"
+            xlink:href="#linear-gradient-12" />
+        <radialGradient cx="-6.59" cy="2729.8"
+            gradientTransform="translate(203.24 -210.2) scale(1.25 0.21)"
+            gradientUnits="userSpaceOnUse" id="radial-gradient" r="154.89">
+            <stop offset="0" />
+            <stop offset="1" stop-color="#424242" />
+        </radialGradient>
+    </defs>
+    <ellipse style="fill:url(#radial-gradient)" cx="195" cy="353.23" rx="193.61" ry="31.97" />
+    <path style="fill:url(#linear-gradient-7)"
+        d="M202.43,111.89A114.9,114.9,0,0,0,96.13,270.31c57.29-1.5,165.87-22.06,220.43-56.53A114.86,114.86,0,0,0,202.43,111.89Z" />
+    <path style="fill:url(#linear-gradient-10)"
+        d="M202.43,161.64A65.1,65.1,0,0,0,144.28,256c36.83-3.59,87.41-14.11,123.23-30.17A65.1,65.1,0,0,0,202.43,161.64Z" />
+    <polygon style="fill:url(#linear-gradient)"
+        points="266.47 90.35 143.12 90.35 241.11 5.22 364.46 5.22 266.47 90.35" />
+    <polygon style="fill:url(#linear-gradient-2)"
+        points="248.86 90.35 234.95 90.35 332.94 5.22 346.85 5.22 248.86 90.35" />
+    <polygon style="fill:url(#linear-gradient-3)"
+        points="174.64 90.35 160.73 90.35 258.72 5.22 272.63 5.22 174.64 90.35" />
+    <polygon style="fill:url(#linear-gradient-11)"
+        points="141.48 89.94 264.83 89.94 166.84 4.81 43.49 4.81 141.48 89.94" />
+    <polygon style="fill:url(#linear-gradient-12)"
+        points="159.09 89.94 173 89.94 75.01 4.81 61.1 4.81 159.09 89.94" />
+    <polygon style="fill:url(#linear-gradient-13)"
+        points="233.31 89.94 247.22 89.94 149.24 4.81 135.33 4.81 233.31 89.94" />
+    <rect style="fill:url(#linear-gradient-4)" height="74.19" width="123.35" x="143.12" y="90.35" />
+    <title>medalha01</title>
+</svg>
