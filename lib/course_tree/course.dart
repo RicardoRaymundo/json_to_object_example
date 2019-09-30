@@ -1,4 +1,4 @@
-import 'package:json_to_object_example/lms/lesson.dart';
+import 'package:json_to_object_example/course_tree/lesson.dart';
 
 class Course {
   String id;

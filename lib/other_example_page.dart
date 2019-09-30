@@ -2,8 +2,9 @@ import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'dart:async' show Future;
 import 'package:flutter/services.dart' show rootBundle;
-import 'package:json_to_object_example/lms/course.dart';
+import 'package:json_to_object_example/course_tree/course.dart';
 
+/// Carregando os dados do curso
 Future<Course> loadData() async {
   String dataRaw = await rootBundle.loadString('assets/data_literature.json');
   final Map<String, dynamic> data = json.decode(dataRaw);
@@ -31,7 +32,7 @@ class OtherExamplePageState extends State<OtherExamplePage> {
                         'Autor: ${snapshot.data.author}\n '
                         'Sobre o autor: ${snapshot.data.authorInfo}\n '
                         'Ano: ${snapshot.data.year}\n '
-                        'Lições: ${snapshot.data.lessons[0].activities[0].comprehensionTest[0].title}'
+                        'Lições: ${snapshot.data.lessons[0].placementTest[0].answers[3].title}'
                     ),
                   )
                 ],

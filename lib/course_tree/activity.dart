@@ -1,5 +1,5 @@
 
-import 'package:json_to_object_example/lms/comprehension_test.dart';
+import 'package:json_to_object_example/course_tree/comprehension_test.dart';
 
 class Activity {
 

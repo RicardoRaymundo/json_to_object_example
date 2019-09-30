@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:json_to_object_example/course_from_json_page.dart';
 import 'package:json_to_object_example/other_example_page.dart';
 import 'package:json_to_object_example/photo_from_json_page.dart';
 

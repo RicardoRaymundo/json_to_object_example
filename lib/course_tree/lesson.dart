@@ -1,6 +1,6 @@
-import 'package:json_to_object_example/lms/activity.dart';
-import 'package:json_to_object_example/lms/final_test.dart';
-import 'package:json_to_object_example/lms/placement_test.dart';
+import 'package:json_to_object_example/course_tree/activity.dart';
+import 'package:json_to_object_example/course_tree/final_test.dart';
+import 'package:json_to_object_example/course_tree/placement_test.dart';
 
 class Lesson {
 
