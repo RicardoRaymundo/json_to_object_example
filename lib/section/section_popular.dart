@@ -3,7 +3,8 @@ import 'package:flutter/material.dart';
 class SectionMoviesPopular extends StatelessWidget {
   int counter = 0;
   String title;
-  Function() pushToSavedWordsScreen;
+
+  SectionMoviesPopular({this.title});
 
   @override
   Widget build(BuildContext context) {
@@ -23,14 +24,14 @@ class SectionMoviesPopular extends StatelessWidget {
                 padding: EdgeInsets.all(3),
                 scrollDirection: Axis.horizontal,
                 //shrinkWrap: true,
-                children: makeContainers(context, pushToSavedWordsScreen)),
+                children: makeContainers(context)),
           )
         ],
       ),
     );
   }
 
-  List<Widget> makeContainers(context, pushToSavedWordsScreen) {
+  List<Widget> makeContainers(context) {
     List<Container> movieList = [];
     for (int i = 0; i < 6; i++) {
       counter++;

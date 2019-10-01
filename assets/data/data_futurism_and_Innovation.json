@@ -1,0 +1,1637 @@
+{
+  "id": "",
+  "title": "Futurismo e Inovação",
+  "description": "Carros voadores, robôs por todos os lados… Será que tudo isso faz sentido? Bem vindo a bordo da nave espacial! Neste curso, vamos abordar tudo isso com o professor Thiago Lima. Aproveita a viagem, galera!",
+  "author": "Thiago Lima",
+  "author_info": "O nome do cara é Thiago Lima, mas pode chamar de Kapivara. Um trocadilho do animal que te representa no mundo. Amigo leal, que não esconde sua ambição de fazer a diferença no planeta Terra. Por trás desse menino sonhador, existe alguém que não abre mão de praticar mais uma de suas paixões, o MMA. Um garoto humilde, e que honra seu sonhos realizando e inspirando as pessoas por onde passa. Uma coisa particular sobre o prof: ele não abre mão de ajudar o próximo sempre que pode.",
+  "year": 2019,
+  "lessons": [
+    {
+      "id": "1",
+      "title": "Princípios do Futurismo",
+      "description": "Entendendo os conceitos do Futurismo e da inovação.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Conceito de Futurismo",
+          "description": "Vamos ver o conceito de Futurismo como ciência, os três pilares da inovação e alguns exemplos atuais de projetos inovadores.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328787587",
+          "youtube": "https://www.youtube.com/watch?v=f3-1eJQyQ4w&t=13s",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que é Futurismo?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Uma árvore."
+                },
+                {
+                  "id": "b",
+                  "title": "Uma espécie rara de peixe."
+                },
+                {
+                  "id": "c",
+                  "title": "A ciência que estuda as projeções do futuro."
+                },
+                {
+                  "id": "d",
+                  "title": "Peça de um computador."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que é inovação?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Ação ou efeito de inovar."
+                },
+                {
+                  "id": "b",
+                  "title": "Uma empresa de computador."
+                },
+                {
+                  "id": "c",
+                  "title": "Uma tarefa de casa."
+                },
+                {
+                  "id": "d",
+                  "title": "Uma necessidade do ser humano."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "O que é inovação",
+          "description": "Agora, o professor vai se aprofundar nos 3 pilares que definem o que é inovação, dando exemplos práticos de como funciona no dia a dia.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328787830",
+          "youtube": "https://www.youtube.com/watch?v=HfEG_Ju2SIU",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que é inovar?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Reutilizar o que já está disponível. "
+                },
+                {
+                  "id": "b",
+                  "title": "Assistir às aulas de informática."
+                },
+                {
+                  "id": "c",
+                  "title": "Criar ou reinventar algo."
+                },
+                {
+                  "id": "d",
+                  "title": "Em uma necessidade do ser humano."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "A inovação está diretamente ligada a tempo, eficiência e...?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Animais"
+                },
+                {
+                  "id": "b",
+                  "title": "Carros"
+                },
+                {
+                  "id": "c",
+                  "title": "Passeios"
+                },
+                {
+                  "id": "d",
+                  "title": "Pessoas"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Consciência sobre o futuro",
+      "description": "Descobrindo como se preparar para o futuro a partir de agora.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Decisões do futuro",
+          "description": "Como tomar melhores decisões no presente sobre o futuro.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328788153",
+          "youtube": "https://www.youtube.com/watch?v=0yubxtvpOaU",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que podemos fazer com o nosso futuro? ",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Podemos criar o nosso futuro."
+                },
+                {
+                  "id": "b",
+                  "title": "Podemos apagar o nosso futuro."
+                },
+                {
+                  "id": "c",
+                  "title": "Podemos pintar o nosso futuro."
+                },
+                {
+                  "id": "d",
+                  "title": "Podemos viver no passado do futuro."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que significa a sigla TI nas empresas?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Treinamento e iluminação. "
+                },
+                {
+                  "id": "b",
+                  "title": "Trabalho e inovação."
+                },
+                {
+                  "id": "c",
+                  "title": "Tecnologia da informação."
+                },
+                {
+                  "id": "d",
+                  "title": "Trabalho da informação."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "A velha tecnologia",
+          "description": "Vamos falar sobre tecnologias criadas recentemente e que “tecnicamente” deveriam ser novas, mas estão ultrapassadas.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328788411",
+          "youtube": "https://www.youtube.com/watch?v=u_hYtpPZyPc",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que é importante na carreira profissional?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Desenvolvimento de software."
+                },
+                {
+                  "id": "b",
+                  "title": "Tecnologia da informação."
+                },
+                {
+                  "id": "c",
+                  "title": "Opções diversas de emprego."
+                },
+                {
+                  "id": "d",
+                  "title": "Comprar um videogame. "
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual é o papel de um profissional que trabalha com desenvolvimento de software?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Criar programas que auxiliem e facilitem o trabalho humano."
+                },
+                {
+                  "id": "b",
+                  "title": "Tirar cópias para os amigos da faculdade."
+                },
+                {
+                  "id": "c",
+                  "title": "Dormir enquanto os outros trabalham."
+                },
+                {
+                  "id": "d",
+                  "title": "Levar cafézinho para o chefe."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 0,
+          "title": "",
+          "description": "",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "",
+              "title": "",
+              "correct": "",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "",
+                  "title": ""
+                },
+                {
+                  "id": "",
+                  "title": ""
+                },
+                {
+                  "id": "",
+                  "title": ""
+                },
+                {
+                  "id": "",
+                  "title": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Transformação de Mindset",
+      "description": "Entendendo como a mudança de mentalidade da nossa sociedade está impactando o nosso futuro.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Linear x Exponencial",
+          "description": "Diferença conceitual de mentalidade linear versus exponencial, sua importância para a inovação e como identificar projetos exponenciais.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328784685",
+          "youtube": "https://www.youtube.com/watch?v=C19htyqQOmo",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que significa mindset ou mentalidade?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Meditação e yoga."
+                },
+                {
+                  "id": "b",
+                  "title": "Crença e modelo de pensamento."
+                },
+                {
+                  "id": "c",
+                  "title": "Idade média da mente. "
+                },
+                {
+                  "id": "d",
+                  "title": "Local onde fazem gravações de vídeos."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual é o papel de um líder moderno?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Ter um time de futebol."
+                },
+                {
+                  "id": "b",
+                  "title": "Torcer para o time que está à frente no campeonato."
+                },
+                {
+                  "id": "c",
+                  "title": "Ser popular na escola."
+                },
+                {
+                  "id": "d",
+                  "title": "Descobrir caminhos e ajudar as pessoas na conquista de um objetivo comum."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Aplicabilidade",
+          "description": "Agora que você já sabe o que é mentalidade e mindset, vamos falar sobre a aplicabilidade disso?\n",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328784896",
+          "youtube": "https://www.youtube.com/watch?v=WfQKLopmwXg",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que significa pensamento linear?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Pensamento linear é o que segue uma linha de pontos um após o outro e não se move nesta linha, não muda de direção."
+                },
+                {
+                  "id": "b",
+                  "title": "Pensamento linear é quando você está pensando ao mesmo tempo que as outras pessoas."
+                },
+                {
+                  "id": "c",
+                  "title": "Pensamento linear significa que você está com a cabeça nas nuvens."
+                },
+                {
+                  "id": "d",
+                  "title": "Pensamento linear é quando você está apaixonado e não sabe se declarar para a pessoa."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual a diferença entre o líder e o chefe?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "O líder manda e o chefe faz junto com a equipe."
+                },
+                {
+                  "id": "b",
+                  "title": "O líder faz junto com a equipe e o chefe manda."
+                },
+                {
+                  "id": "c",
+                  "title": "Você errou, nós empatamos e eu ganhei."
+                },
+                {
+                  "id": "d",
+                  "title": "O líder é subordinado ao chefe."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Futurismo & Liderança",
+      "description": "Desvendando as características da verdadeira liderança do futuro.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Mentalidade futurista",
+          "description": "Mentalidade de liderança no âmbito futurista, características de um líder do futuro, diferenciais entre o modelo de liderança atual e futurista.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328785252",
+          "youtube": "https://www.youtube.com/watch?v=IYcSvyfZKBw",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Qual a característica do líder futurista?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Que ele será avaliado por sua experiência."
+                },
+                {
+                  "id": "b",
+                  "title": "O poder deve ser exercido por quem tem cargo de alta gestão."
+                },
+                {
+                  "id": "c",
+                  "title": "Seu papel é comandar a empresa."
+                },
+                {
+                  "id": "d",
+                  "title": "Será avaliado por sua criatividade, capacidade de construir times e conhecimento do seu cliente."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual a característica do líder atual?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Será avaliado por sua criatividade, capacidade de construir time e conhecimento do seu cliente."
+                },
+                {
+                  "id": "b",
+                  "title": "Seu papel é comandar a empresa e será avaliado pela sua experiência."
+                },
+                {
+                  "id": "c",
+                  "title": "Ele e sua equipe se desenvolvem através de problemas reais."
+                },
+                {
+                  "id": "d",
+                  "title": "Todos podem exercer um papel de liderança, independente do seu cargo ou capacidade."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Stand Up Comedy",
+          "description": "Nessa segunda parte, tem uma história bem legal e engraçada. Bora saber o que é?",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328785531",
+          "youtube": "https://www.youtube.com/watch?v=nb0Tvh4OfPw",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Um aluno comum de uma escola pública pode ser um líder?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Sim, todos podem ser um líder. "
+                },
+                {
+                  "id": "b",
+                  "title": "Não, tá maluco?"
+                },
+                {
+                  "id": "c",
+                  "title": "Jamais, só o mais popular pode ser o líder."
+                },
+                {
+                  "id": "d",
+                  "title": "Sim, desde que ele tenha bastante seguidores no Instagram."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Segundo o vídeo, se o chuveiro da sua casa queimar, quais pontos podem ser fundamentais para resolução desse problema?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Você tem que ser o pai ou o responsável da casa."
+                },
+                {
+                  "id": "b",
+                  "title": "Você tem que ter trocado o chuveiro da última vez que aconteceu isso."
+                },
+                {
+                  "id": "c",
+                  "title": "Você pode usar sua criatividade e a experimentação."
+                },
+                {
+                  "id": "d",
+                  "title": "Você, como filho, tem que ficar quieto e não atrapalhar."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "O Tempo",
+      "description": "Entendendo como o tempo é estudado e investigado dentro do Futurismo.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Dimensões sociais e tecnológicas",
+          "description": "Metodologias relacionadas à análise de contexto nas dimensões políticas, tecnológicas, sociais e ecológicas, horizonte de tempo.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328785873",
+          "youtube": "https://www.youtube.com/watch?v=tTfOqJ03Bfo",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que é metodologia?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Ramo da lógica que se ocupa dos métodos das diferentes ciências."
+                },
+                {
+                  "id": "b",
+                  "title": "É uma espécie de rede social."
+                },
+                {
+                  "id": "c",
+                  "title": "É uma especialidade médica."
+                },
+                {
+                  "id": "d",
+                  "title": "É um país asiático."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Segundo o professor, o que pode ser considerado curto prazo no tema Futurismo?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Uma semana a um mês."
+                },
+                {
+                  "id": "b",
+                  "title": "Um mês a 3 meses."
+                },
+                {
+                  "id": "c",
+                  "title": "3 meses a 1 ano."
+                },
+                {
+                  "id": "d",
+                  "title": "1 ano a 5 anos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Netflix",
+          "description": "Você deve adorar assistir filmes e séries, né? Se não, sabe quem curte. Nessa aula, vamos falar de onde vem esse conceito de vídeos.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328783214/293e41e378",
+          "youtube": "https://www.youtube.com/watch?v=Xuh6gWDZAcI",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Quais dessas empresas se encaixam no modelo futurista?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Kodak"
+                },
+                {
+                  "id": "b",
+                  "title": "Blockbuster"
+                },
+                {
+                  "id": "c",
+                  "title": "Atari"
+                },
+                {
+                  "id": "d",
+                  "title": "Netflix"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual foi o grande erro da empresa Kodak ao ter falido?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Não ter feito uma análise apurada do contexto do seu mercado."
+                },
+                {
+                  "id": "b",
+                  "title": "Não ter pago o salário dos seus funcionários."
+                },
+                {
+                  "id": "c",
+                  "title": "Ter sonegado imposto ao governo."
+                },
+                {
+                  "id": "d",
+                  "title": "Não ter guardado o dinheiro do lucro na poupança."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Tecnologia e Sociedade",
+          "description": "Falaremos sobre as dimensões da análise, que vai da tecnologia à sociedade.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328783446",
+          "youtube": "https://www.youtube.com/watch?v=iZaUAAe5OMU",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Quais são as dimensões da análise?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Tecnologia, política, ecologia, economia e sociedade."
+                },
+                {
+                  "id": "b",
+                  "title": "Sociedade, povo, população, moradores."
+                },
+                {
+                  "id": "c",
+                  "title": "Política, presidente, prefeito e governador."
+                },
+                {
+                  "id": "d",
+                  "title": "Economia e assistir jornal nacional. "
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual é o país que mais consome tecnologia no mundo?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Brasil."
+                },
+                {
+                  "id": "b",
+                  "title": "Estados Unidos."
+                },
+                {
+                  "id": "c",
+                  "title": "África do Sul."
+                },
+                {
+                  "id": "d",
+                  "title": "China."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Criando um novo futuro",
+      "description": "Aprendendo a utilizar nossas ideias para projetar o futuro que gostaríamos de viver.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Projetando o futuro",
+          "description": "Análise de métodos avançados de avaliação do presente e projeção do futuro.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328783666",
+          "youtube": "https://www.youtube.com/watch?v=JwmLZbeggGs",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "No vídeo, ensinamos a dividir o método prospectivo, certo? Até quantas vezes pode ser feito isso segundo a aula?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "4 etapas."
+                },
+                {
+                  "id": "b",
+                  "title": "5 etapas."
+                },
+                {
+                  "id": "c",
+                  "title": "3 etapas."
+                },
+                {
+                  "id": "d",
+                  "title": "8 etapas."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Segundo o carinha tatuado, qual é a segunda etapa do método prospectivo?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Ver o presente com clareza."
+                },
+                {
+                  "id": "b",
+                  "title": "Fazer uma retrospectiva."
+                },
+                {
+                  "id": "c",
+                  "title": "Criar uma visão estratégica de futuro com várias alternativas."
+                },
+                {
+                  "id": "d",
+                  "title": "Definir o futuro desejado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Verdade ou Desafio?",
+          "description": "Já pensou em desafiar o presente? Nesta aula, vamos falar sobre isso.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328783931",
+          "youtube": "https://www.youtube.com/watch?v=uSUMkVs7zFE",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que pode ser considerado foresight?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Um filme."
+                },
+                {
+                  "id": "b",
+                  "title": "Desafiar o presente."
+                },
+                {
+                  "id": "c",
+                  "title": "Um jogo."
+                },
+                {
+                  "id": "d",
+                  "title": "Uma escola."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que é um insight?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Uma ideia."
+                },
+                {
+                  "id": "b",
+                  "title": "Uma comida."
+                },
+                {
+                  "id": "c",
+                  "title": "Uma empresa."
+                },
+                {
+                  "id": "d",
+                  "title": "Uma nave espacial."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Os Padrões Sociais",
+      "description": "Entendendo como tomar decisões levando em consideração a sustentabilidade, os padrões da sociedade e os ricos.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Sustentabilidade",
+          "description": "Como avaliar a sustentabilidade de determinado negócio frente às demandas do futuro.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328784227",
+          "youtube": "https://www.youtube.com/watch?v=W6P8RF11So8",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que significa analisar algo?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Fazer uma investigação/avaliação de algo desconhecido."
+                },
+                {
+                  "id": "b",
+                  "title": "Fazer um check up no médico."
+                },
+                {
+                  "id": "c",
+                  "title": "Fazer uma inalação."
+                },
+                {
+                  "id": "d",
+                  "title": "Stalkear o perfil das inimigas."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Segundo o vídeo, é importante questionar padrões da sociedade e das empresas?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Sim."
+                },
+                {
+                  "id": "b",
+                  "title": "Não."
+                },
+                {
+                  "id": "c",
+                  "title": "Perda de tempo."
+                },
+                {
+                  "id": "d",
+                  "title": "Eu gosto de seguir a boiada."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Geladeira inteligente",
+          "description": "Imagine uma tecnologia que pudesse saber o que falta na geladeira sem você precisar ir no mercado, e ainda comprasse o que estivesse faltando.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328786051",
+          "youtube": "https://www.youtube.com/watch?v=6XkdMXxj4M0",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Digamos que você tem uma empresa e precisa tomar uma decisão. É importante você avaliar os riscos antes de alguma ação?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Eu não gosto de correr riscos."
+                },
+                {
+                  "id": "b",
+                  "title": "Eu não ligo para essas coisas."
+                },
+                {
+                  "id": "c",
+                  "title": "Sim, até porque a empresa é minha."
+                },
+                {
+                  "id": "d",
+                  "title": "Não, porque eu nunca vou conseguir ter uma empresa."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que significa ser uma “mosca branca” no mundo corporativo?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Significa um mosquito da dengue e transmite doenças."
+                },
+                {
+                  "id": "b",
+                  "title": "Significa ser algo em escassez, ou seja. Bem difícil de encontrar."
+                },
+                {
+                  "id": "c",
+                  "title": "Significa que você fica moscando."
+                },
+                {
+                  "id": "d",
+                  "title": "Significa que você está viajando na maionese."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Tendências do Futuro",
+      "description": "Descobrindo como prever o futuro com base nas tendências tecnológicas.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Previsões futuras",
+          "description": "Previsões para a tecnologia, cidades, estilo de vida, mobilidade, dentre outros temas e áreas, e como isso vai impactar o dia a dia das pessoas.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328786570",
+          "youtube": "https://www.youtube.com/watch?v=AU9vJtM9zrM",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Você sabe o que significa previsões para o futuro?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Não sei, eu não sou bruxo(a)."
+                },
+                {
+                  "id": "b",
+                  "title": "Eu não tenho poderes para saber o que vai acontecer."
+                },
+                {
+                  "id": "c",
+                  "title": "Saber o que aconteceu no mundo ontem."
+                },
+                {
+                  "id": "d",
+                  "title": "Ter uma ideia do que pode acontecer com o futuro, baseado no que está acontecendo no momento."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que é um carro autônomo?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "O carro anda sem motorista."
+                },
+                {
+                  "id": "b",
+                  "title": "O carro precisa de um motorista e um cobrador."
+                },
+                {
+                  "id": "c",
+                  "title": "O carro anda voando."
+                },
+                {
+                  "id": "d",
+                  "title": "O carro só anda com motorista."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Internet das Coisas",
+          "description": "Nessa segunda parte, vamos continuar falando sobre previsões para o futuro. Você já ouviu falar sobre IoT?",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328786922",
+          "youtube": "https://www.youtube.com/watch?v=C7onr0fR0Vc",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Qual o significado de IoT?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Inteligência artificial."
+                },
+                {
+                  "id": "b",
+                  "title": "Internet 4G"
+                },
+                {
+                  "id": "c",
+                  "title": "A internet das coisas."
+                },
+                {
+                  "id": "d",
+                  "title": "Wi-fi do vizinho."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual é a vantagem de usar o IoT?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Facilidade de se conectar a todas as coisas através da internet."
+                },
+                {
+                  "id": "b",
+                  "title": "Vou para a escola de carro."
+                },
+                {
+                  "id": "c",
+                  "title": "Ganho uma passagem para o exterior."
+                },
+                {
+                  "id": "d",
+                  "title": "Não preciso pagar a internet."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Realidade virtual",
+          "description": "Chegamos na reta final digna de continuidade. Aqui, vamos falar sobre realidade virtual. Tá preparado?",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/328787133",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que é realidade virtual?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "É um \"bichinho virtual\" que você tem que alimentar toda hora?"
+                },
+                {
+                  "id": "b",
+                  "title": "Realidade virtual é uma tecnologia entre uma pessoa e um sistema operacional através de recursos gráficos 3D"
+                },
+                {
+                  "id": "c",
+                  "title": "É a fome e pobreza no mundo."
+                },
+                {
+                  "id": "d",
+                  "title": "É um jogo de cartas."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual é a definição de inteligência artificial?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Inteligência artificial é a inteligência similar à humana executada por mecanismos ou software."
+                },
+                {
+                  "id": "b",
+                  "title": "É uma inteligência colorida."
+                },
+                {
+                  "id": "c",
+                  "title": "É uma inteligência de mentira."
+                },
+                {
+                  "id": "d",
+                  "title": "É a inteligência de um animal doméstico."
+                }
+              ]
+            }
+          ]
+        }
+
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

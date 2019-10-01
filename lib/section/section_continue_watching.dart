@@ -6,9 +6,8 @@ class SectionMoviesContinueWatching extends StatelessWidget {
   int counter = 0;
   String title;
   final String assetName = 'assets/svg/play.svg';
-  Function() pushToSavedWordsScreen;
 
-  SectionMoviesContinueWatching({this.title, this.pushToSavedWordsScreen}) : super();
+  SectionMoviesContinueWatching({this.title}) : super();
 
   @override
   Widget build(BuildContext context) {
@@ -31,14 +30,14 @@ class SectionMoviesContinueWatching extends StatelessWidget {
                 padding: EdgeInsets.all(3),
                 scrollDirection: Axis.horizontal,
                 //shrinkWrap: true,
-                children: makeContinueContainers(this.pushToSavedWordsScreen)),
+                children: makeContinueContainers()),
           )
         ],
       ),
     );
   }
 
-  List<Widget> makeContinueContainers(pushToSavedWordsScreen) {
+  List<Widget> makeContinueContainers() {
     List<Container> movieList = [];
     for (int i = 0; i < 6; i++) {
       counter++;
@@ -49,7 +48,6 @@ class SectionMoviesContinueWatching extends StatelessWidget {
           child: GestureDetector(
             onTap: () {
               if (i == 1) {
-                pushToSavedWordsScreen();
               }
             },
             child: Column(

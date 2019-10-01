@@ -2,9 +2,8 @@ import 'package:flutter/material.dart';
 
 class SectionMovieBanner extends StatelessWidget {
   final String title;
-  final Function() pushToSavedWordsScreen;
 
-  SectionMovieBanner({this.title, this.pushToSavedWordsScreen}) : super();
+  SectionMovieBanner({this.title}) : super();
 
   @override
   Widget build(BuildContext context) {
@@ -50,9 +49,7 @@ class SectionMovieBanner extends StatelessWidget {
                     ),
                   ),
                   color: Colors.white,
-                  onPressed: () {
-                    this.pushToSavedWordsScreen();
-                  },
+                  onPressed: () {},
                 ),
                 FlatButton(
                   child: Container(

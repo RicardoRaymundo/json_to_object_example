@@ -1,0 +1,1206 @@
+{
+  "id": "",
+  "title": "Matemática",
+  "description": "Você sabia que todos os computadores operam baseados em modelos matemáticos chamados de funções? No século da automação, as funções te ajudam a compreender o funcionamento do mundo à sua volta. Vamos explorar conceitos e aplicabilidades práticas, desenvolver algumas operações e aprender como identificá-las em casos concretos.",
+  "author": "João Batista",
+  "author_info": "João é aquele garoto sinônimo de disciplina, superação e sucesso. Nas horas vagas, gosta de escutar música, tocar um violão e ler seus livros preferidos. O cara veio de uma escola do interior do Paraná e, hoje, é referência na melhor escola de negócios do Brasil. Um garoto um pouco introspectivo, mas que, quando você conhece, percebe que ele tem um coração gigante. Sem falar que é sagrado para o João agradecer todos os domingos, sem falta, o seu maior coach: Jesus Cristo.",
+  "year": 2019,
+  "lessons": [
+    {
+      "id": "1",
+      "title": "Conjuntos",
+      "description": "Entendendo os conceitos técnicos dos conjuntos.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Conjuntos simples",
+          "description": "Conceituação técnica, aplicações e diferenças entre conjuntos simples.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/329803993/2b514f49a3",
+          "youtube": "https://www.youtube.com/watch?v=nbenA-xPz4w&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=49",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Do que são formados os conjuntos?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Ligamentos."
+                },
+                {
+                  "id": "b",
+                  "title": "Elementos."
+                },
+                {
+                  "id": "c",
+                  "title": "Seleções."
+                },
+                {
+                  "id": "d",
+                  "title": "Filamentos."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Quais são as linguagens dos conjuntos?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Pertinência e continência."
+                },
+                {
+                  "id": "b",
+                  "title": "Permanência e eloquência."
+                },
+                {
+                  "id": "c",
+                  "title": "Influência e saliência."
+                },
+                {
+                  "id": "d",
+                  "title": "Gerência e potência."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Aplicações",
+          "description": "Conceituação técnica, aplicações e diferenças entre conjuntos simples.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/329805004/6024d9d5c1",
+          "youtube": "https://www.youtube.com/watch?v=RE0JuMuuV2c&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=50",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que são conjuntos unitários?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Conjuntos formados por diversos elementos."
+                },
+                {
+                  "id": "b",
+                  "title": "Conjuntos vazios."
+                },
+                {
+                  "id": "c",
+                  "title": "Conjuntos que contêm um único elemento."
+                },
+                {
+                  "id": "d",
+                  "title": "Conjuntos arredondados."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que é um conjunto universo?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Aquele que contém todos os elementos em análise."
+                },
+                {
+                  "id": "b",
+                  "title": "Aquele que contém qualquer elemento."
+                },
+                {
+                  "id": "c",
+                  "title": "Aquele que nada contém."
+                },
+                {
+                  "id": "d",
+                  "title": "Aquele que independe de outros conjuntos."
+                }
+              ]
+            }
+          ]
+        }
+
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Subconjuntos e operações",
+      "description": "Aprendendo as principais operações dos conjuntos e subconjuntos.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Conjuntos das partes e Subconjuntos",
+          "description": "Conjunto das partes ou subconjuntos, suas espécies e operações simples, união, intersecção e subtração de conjuntos.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/329805820/b3e24e3269",
+          "youtube": "https://www.youtube.com/watch?v=50v8RLFuCBI&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=51",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Qual das afirmações está correta?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Nenhum conjunto é subconjunto dele mesmo."
+                },
+                {
+                  "id": "b",
+                  "title": "Todo conjunto é subconjunto dele mesmo."
+                },
+                {
+                  "id": "c",
+                  "title": "Os subconjuntos são conjuntos das partes."
+                },
+                {
+                  "id": "d",
+                  "title": "Os conjuntos nem sempre são subconjuntos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Espécies de operações",
+          "description": "Conjunto das partes ou subconjuntos, suas espécies e operações simples, união, intersecção e subtração de conjuntos.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/329806660/86a946f5c5",
+          "youtube": "https://www.youtube.com/watch?v=TD9zA0QdED4&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=52",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Do que se trata a intersecção de conjuntos? ",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Dissociar elementos iguais de um conjunto."
+                },
+                {
+                  "id": "b",
+                  "title": "Subtrair elementos de um conjunto."
+                },
+                {
+                  "id": "c",
+                  "title": "Associação de elementos similares entre conjuntos."
+                },
+                {
+                  "id": "d",
+                  "title": "Conjunto universo de elementos."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Do que se trata conjuntos complementares?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Compreende a parte interna de determinado conjunto, quando ele é vazio."
+                },
+                {
+                  "id": "b",
+                  "title": "Compreende um conjunto que completa outro subconjunto."
+                },
+                {
+                  "id": "c",
+                  "title": "Compreende a parte externa de determinado conjunto, que se estende ao conjunto universo."
+                },
+                {
+                  "id": "d",
+                  "title": "Compreende um conjunto que não possui elementos."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Conjuntos numéricos e derivados",
+      "description": "Descobrindo o que há por trás dos conjuntos numéricos e de seus derivados.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Conjuntos numéricos",
+          "description": "Conjuntos numéricos e seus derivados: naturais, inteiros, racionais, irracionais e reais.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/329807861/db9117c4e6",
+          "youtube": "https://www.youtube.com/watch?v=ma_jYoNsI2A&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=53",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Do que se trata o conjunto dos números inteiros?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Números racionais."
+                },
+                {
+                  "id": "b",
+                  "title": "Números sem casas decimais, tanto positivos quanto negativos."
+                },
+                {
+                  "id": "c",
+                  "title": "Números surreais."
+                },
+                {
+                  "id": "d",
+                  "title": "Números incontáveis."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Por que existe o conjunto de números racionais?",
+              "correct": "2",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Surgiu da necessidade de representar partes do inteiro."
+                },
+                {
+                  "id": "b",
+                  "title": "Surgiu da necessidade de raciocinar melhor."
+                },
+                {
+                  "id": "c",
+                  "title": "Surgiu da necessidade de dividir."
+                },
+                {
+                  "id": "d",
+                  "title": "Surgiu da necessidade de equacionar."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Derivados",
+          "description": "Conjuntos numéricos e seus derivados: naturais, inteiros, racionais, irracionais e reais.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/329808898/7d74b3cb7d",
+          "youtube": "https://www.youtube.com/watch?v=Oo5EiHyBTcs&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=54",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Em que consistem os números irracionais?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Conjunto de números finitos padronizados."
+                },
+                {
+                  "id": "b",
+                  "title": "Conjunto de números infinitos e variáveis."
+                },
+                {
+                  "id": "c",
+                  "title": "Conjunto de números inteiros."
+                },
+                {
+                  "id": "d",
+                  "title": "Conjunto de números fracionados."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Em que consiste o conjunto de números reais?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "O conjunto de números verdadeiros."
+                },
+                {
+                  "id": "b",
+                  "title": "O conjunto de números mutáveis."
+                },
+                {
+                  "id": "c",
+                  "title": "O conjunto de números indivisíveis."
+                },
+                {
+                  "id": "d",
+                  "title": "O conjunto mais completo de números."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Relações binárias e plano cartesiano",
+      "description": "Aprendendo o que são relações binárias e como usar o plano cartesiano",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Aplicações",
+          "description": "Conceituação técnica, aplicações, plano cartesiano e relações binárias diversas.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/329810552/bbd68d87a3",
+          "youtube": "https://www.youtube.com/watch?v=YkzDO5vvrHQ&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=56",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Em que consistem as relações binárias?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "As relações entre números reais."
+                },
+                {
+                  "id": "b",
+                  "title": "As relações entre números irracionais."
+                },
+                {
+                  "id": "c",
+                  "title": "As relações entre dois elementos."
+                },
+                {
+                  "id": "d",
+                  "title": "As relações entre vários elementos. "
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual das afirmativas é correta?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "As relações binárias inversas consistem na inversão dos eixos x e y."
+                },
+                {
+                  "id": "b",
+                  "title": "As relações binárias inversas consistem na supressão dos números reais."
+                },
+                {
+                  "id": "c",
+                  "title": "As funções não podem ser binárias."
+                },
+                {
+                  "id": "d",
+                  "title": "As coordenadas não são relevantes na formação de um plano cartesiano."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Conceituação técnica",
+          "description": "Conceituação técnica, aplicações, plano cartesiano e relações binárias diversas",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/329809786/2b6a304171",
+          "youtube": "https://www.youtube.com/watch?v=vvqk_Y_35eU&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=55",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Qual das afirmativas pode ser considerada correta?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "As funções matemáticas são um conjunto numérico."
+                },
+                {
+                  "id": "b",
+                  "title": "As funções matemáticas são a base da programação."
+                },
+                {
+                  "id": "c",
+                  "title": "As funções matemáticas não possuem relevância."
+                },
+                {
+                  "id": "d",
+                  "title": "As funções matemáticas não possuem aplicação prática."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Basicamente, como é formado um plano cartesiano?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Da relação entre o eixo superior e o inferior."
+                },
+                {
+                  "id": "b",
+                  "title": "Da relação entre o eixo menor e o eixo maior."
+                },
+                {
+                  "id": "c",
+                  "title": "Da relação entre dois subconjuntos vazios."
+                },
+                {
+                  "id": "d",
+                  "title": "Da relação entre as abcissas e as ordenadas."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "As funções",
+      "description": "Entendendo o que são funções e para que elas servem.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Diferença entre relações binárias e funções",
+          "description": "Conceito, diferença entre relações binárias e funções, estrutura de uma função e sua aplicabilidade.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/329811425/995b23f285",
+          "youtube": "https://www.youtube.com/watch?v=WvuBksLCvP0&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=57",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Em que consiste o produto cartesiano?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Uma combinação de elementos de dois conjuntos, que foram uma ordenada."
+                },
+                {
+                  "id": "b",
+                  "title": "Uma combinação de conjuntos vazios."
+                },
+                {
+                  "id": "c",
+                  "title": "A relação entre diversos subconjuntos."
+                },
+                {
+                  "id": "d",
+                  "title": "Uma função binária."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual das afirmativas é correta?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Toda relação binária é uma função."
+                },
+                {
+                  "id": "b",
+                  "title": "Não existe relação binária capaz de ser uma função."
+                },
+                {
+                  "id": "c",
+                  "title": "Nem toda relação binária é uma função."
+                },
+                {
+                  "id": "d",
+                  "title": "As funções não podem ser binárias."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Diferença entre relações binárias e funções",
+          "description": "Conceito, diferença entre relações binárias e funções, estrutura de uma função e sua aplicabilidade.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/329812445/e938cc44ad",
+          "youtube": "https://www.youtube.com/watch?v=Wy8xCx98PUQ&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=58",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Em funções, o que significa a imagem?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "O conjunto de produção de determinada função."
+                },
+                {
+                  "id": "b",
+                  "title": "Os objetos que ordenam a função."
+                },
+                {
+                  "id": "c",
+                  "title": "Os números irracionais numa relação binária."
+                },
+                {
+                  "id": "d",
+                  "title": "A intersecção dos conjuntos racionais."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Em funções, o que significa domínio?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "É o conjunto de elementos semelhantes."
+                },
+                {
+                  "id": "b",
+                  "title": "É o conjunto de números divisíveis."
+                },
+                {
+                  "id": "c",
+                  "title": "É o conjunto de partida, elementos contidos nas abcissas."
+                },
+                {
+                  "id": "d",
+                  "title": "É o conjunto de números irracionais."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Diferentes funções",
+      "description": "Aprendendo os tipos de funções e seus resultados geométricos.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Funções de primeiro e segundo grau",
+          "description": "Como identificar funções do primeiro e segundo grau no plano cartesiano, além de funções exóticas.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/329813423/4d132cc5ad",
+          "youtube": "https://www.youtube.com/watch?v=JzDaCTmPrW0&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=59",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Em que consiste uma função de primeiro-grau do ponto de vista geométrico?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Trata-se de uma função cujo resultado é uma curva."
+                },
+                {
+                  "id": "b",
+                  "title": "Trata-se de uma função cujo resultado é um círculo."
+                },
+                {
+                  "id": "c",
+                  "title": "Trata-se de uma função cujo resultado é um quadrado."
+                },
+                {
+                  "id": "d",
+                  "title": "Trata-se de uma função cujo resultado é uma reta."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Em que consiste uma função do segundo-grau do ponto de vista geométrico?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Trata-se de uma função cujo resultado é um triângulo."
+                },
+                {
+                  "id": "b",
+                  "title": "Trata-se de uma função cujo resultado é uma parábola."
+                },
+                {
+                  "id": "c",
+                  "title": "Trata-se de uma função cujo resultado é um retângulo."
+                },
+                {
+                  "id": "d",
+                  "title": "Trata-se de uma função cujo resultado é um cone."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Como identificar funções do primeiro e segundo grau",
+          "description": "Como identificar funções do primeiro e segundo grau no plano cartesiano, além de funções exóticas.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/329815188/3f44dccac2",
+          "youtube": "https://www.youtube.com/watch?v=f80GSRemVJ0&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=60",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Quais podem ser chamadas de espécies exóticas de funções? ",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Intrometida e extrovertida."
+                },
+                {
+                  "id": "b",
+                  "title": "Sobrejetora e injetora."
+                },
+                {
+                  "id": "c",
+                  "title": "Expansiva e inflexiva."
+                },
+                {
+                  "id": "d",
+                  "title": "Explicadora e subjetiva."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual das afirmações é correta?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "As funções de segundo grau podem ter formato geométrico côncavo ou convexo."
+                },
+                {
+                  "id": "b",
+                  "title": "As funções exóticas não possuem aplicação prática."
+                },
+                {
+                  "id": "c",
+                  "title": "As funções expansivas são muito utilizadas."
+                },
+                {
+                  "id": "d",
+                  "title": "As funções não têm qualquer relação com conjuntos."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Aplicando na prática",
+      "description": "Entendendo como podemos utilizar os conceitos da matemática na prática.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Conceito e aplicabilidade",
+          "description": "Conceito, como identificá-las e suas aplicabilidades.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/329816024/b981c8128c",
+          "youtube": "https://www.youtube.com/watch?v=yP1uBmSJCM4&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=61",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que as funções são ótimas em fazer?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Desperdiçar o potencial de aproveitamento dos elementos."
+                },
+                {
+                  "id": "b",
+                  "title": "Encontrar o ponto ótimo de aproveitamento de determinados elementos."
+                },
+                {
+                  "id": "c",
+                  "title": "Calcular o número de elementos de um conjunto."
+                },
+                {
+                  "id": "d",
+                  "title": "Mostrar os conjuntos vazios."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Em que consiste a função composta?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Trata-se de uma função que conjuga outras funções independentes."
+                },
+                {
+                  "id": "b",
+                  "title": "Trata-se de uma fórmula mais rápida de função."
+                },
+                {
+                  "id": "c",
+                  "title": "Trata-se de uma função que só existe quando o contradomínio da primeira fase compõe o conjunto de partida da segunda fase."
+                },
+                {
+                  "id": "d",
+                  "title": "Trata-se de uma função que não precisa de elementos."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

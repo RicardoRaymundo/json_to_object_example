@@ -1,0 +1,1258 @@
+{
+  "id": "",
+  "title": "Habilidades do Futuro",
+  "description": "Neste curso, falaremos das habilidades necessárias para o mercado de trabalho do futuro. Você sabia que mais da metade das profissões que existem hoje serão extintas nos próximos anos? Cola na grade e vamos desvendar isso juntos!",
+  "author": "Camile Just",
+  "author_info": "Pode chama-la de Cah. Curitibana e que adora viajar. É empreendedora daquelas muito guerreira. Tem como missão empoderar outras mulheres a se tornarem protagonistas de suas vidas também. Camile adora um café e fazer novas amizades. Nas suas horas vagas, passa seu tempo lendo ou passeando com sua filha adolescente e linda Alice.",
+  "year": 2019,
+  "lessons": [
+    {
+      "id": "1",
+      "title": "As 3 Revoluções Humanas",
+      "description": "Entendendo como as mudanças sociais transformaram nossa sociedade ao longo da História.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Revolução Agrícola + Era Industrial",
+          "description": "Vamos aprender sobre como as mudanças sociais deram origem à sociedade em que vivemos hoje.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334798004/860d2c4b98",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que foi a Revolução Agrícola?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Quando as pessoas começaram a viver de forma civilizada."
+                },
+                {
+                  "id": "b",
+                  "title": "Quando as pessoas deixaram suas casas nas fazendas para viver nas cidades."
+                },
+                {
+                  "id": "c",
+                  "title": "Quando as pessoas deixaram de ser nômades e começaram a viver em sociedade, num lugar fixo."
+                },
+                {
+                  "id": "d",
+                  "title": "Quando as pessoas pararam de praticar a agricultura e revolucionaram os empregos."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que foi a Era Industrial?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Quando as indústrias se tornaram “donas” de todas as cidades."
+                },
+                {
+                  "id": "b",
+                  "title": "Quando as pessoas foram para as cidades e passaram a trabalhar com indústrias e bens materiais."
+                },
+                {
+                  "id": "c",
+                  "title": "Quando as pessoas começaram a valorizar mais a produção das indústrias do que a produção feita pela agricultura."
+                },
+                {
+                  "id": "d",
+                  "title": "Quando as indústrias eram a única opção de emprego das pessoas."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Qual das alternativas NÃO representa nenhuma das lógicas da Era Industrial?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Era preciso produzir cada vez mais e em menos tempo para gerar lucro."
+                },
+                {
+                  "id": "b",
+                  "title": "Poder centralizado, onde uma pessoa mandava e outras obedeciam."
+                },
+                {
+                  "id": "c",
+                  "title": "Tempo é mais importante do que dinheiro."
+                },
+                {
+                  "id": "d",
+                  "title": "Não tem para todo mundo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "A Era Digital",
+          "description": "Vamos aprender mais sobre a era na qual estamos vivendo.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334798206/509ab1d909",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Como a Era Digital começou?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "As coisas que antes eram manuais foram levadas para o mundo digital."
+                },
+                {
+                  "id": "b",
+                  "title": "A internet foi inventada e, aos poucos, foi se popularizando no mundo."
+                },
+                {
+                  "id": "c",
+                  "title": "Outras tecnologias mais avançadas foram lançadas no mercado."
+                },
+                {
+                  "id": "d",
+                  "title": "As pessoas começaram a se conectar mais entre suas tribos."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que é Economia Colaborativa na prática?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Pessoas que se juntam para decidir coisas juntas sobre a economia de suas empresas."
+                },
+                {
+                  "id": "b",
+                  "title": "Pessoas que se organizam em comunidades para compartilhar dinheiro."
+                },
+                {
+                  "id": "c",
+                  "title": "Pessoas conectadas que se juntam em comunidades para discutir, trocar ou colaborar a favor de algo com o que elas se identificam."
+                },
+                {
+                  "id": "d",
+                  "title": "Pessoas que gostam e se interessam pelas mesmas coisas."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Qual é uma das características mais importantes da Economia Colaborativa?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Colaboração"
+                },
+                {
+                  "id": "b",
+                  "title": "Comunidade"
+                },
+                {
+                  "id": "c",
+                  "title": "União"
+                },
+                {
+                  "id": "d",
+                  "title": "Compartilhamento"
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "title": "Segundo a professora Camile, qual é a semelhança mais importante entre o Uber e o Airbnb?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Os dois são aplicativos que surgiram com a Era Digital."
+                },
+                {
+                  "id": "b",
+                  "title": "Os dois conectam pessoas desconhecidas para compartilhar coisas."
+                },
+                {
+                  "id": "c",
+                  "title": "Os dois são startups que utilizam tecnologia como produto."
+                },
+                {
+                  "id": "d",
+                  "title": "Os dois se tornaram populares durante a Era Digital."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Características da nova economia",
+          "description": "Vamos aprender mais sobre a nova economia e suas características principais.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334798395/388f930a46",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Qual é o princípio da Economia Criativa?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "A matéria prima intelectual é mais importante e mais valorosa do que a matéria prima física, como o petróleo e os produtos industriais."
+                },
+                {
+                  "id": "b",
+                  "title": "O que sabemos é mais relevante do que aquilo que possuímos."
+                },
+                {
+                  "id": "c",
+                  "title": "Produtos industriais são inferiores ao conhecimento e ao intelecto."
+                },
+                {
+                  "id": "d",
+                  "title": "A criatividade nos torna mais competentes para solucionar problemas."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Quais são os três componentes da \"nova economia\"?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Economia Criativa, Economia Tradicional e Economia Colaborativa."
+                },
+                {
+                  "id": "b",
+                  "title": "Economia Compartilhada, Economia Comunitária e Economia Criativa."
+                },
+                {
+                  "id": "c",
+                  "title": "Economia Colaborativa, Economia Criativa e Economia Industrial."
+                },
+                {
+                  "id": "d",
+                  "title": "Economia Colaborativa, Economia Compartilhada e Economia Criativa."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Quais eram os centros de comunicação e conteúdo anteriores à Era Digital?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Apenas os jornais."
+                },
+                {
+                  "id": "b",
+                  "title": "Jornais, revistas e tudo que era feito de papel."
+                },
+                {
+                  "id": "c",
+                  "title": "Jornais, redes de televisão e indústria cinematográfica."
+                },
+                {
+                  "id": "d",
+                  "title": "Rádios e televisão."
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "title": "Qual é a característica mais importante da comunicação na Era Digital?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Redes sociais e blogs dominam a comunicação na Era Digital."
+                },
+                {
+                  "id": "b",
+                  "title": "Podemos comunicar através de textos, vídeos, entre outros."
+                },
+                {
+                  "id": "c",
+                  "title": "A comunicação não acontece mais pelos jornais e televisão, mas só pela internet."
+                },
+                {
+                  "id": "d",
+                  "title": "Todos nós podemos ser centros de conteúdo. Não é preciso ser da televisão para publicar um vídeo, nem ser jornalista para escrever sobre as coisas."
+                }
+              ]
+            }
+          ]
+        }
+
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "As Tendências do Trabalho",
+      "description": "Conhecendo algumas das tendências do mercado de trabalho na Era Digital.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Emprego x Trabalho",
+          "description": "Vamos entender a diferença entre emprego e trabalho.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334797874/6ae57ab98d",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que é emprego?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "É aquilo que você é obrigado a fazer apenas para ganhar um salário."
+                },
+                {
+                  "id": "b",
+                  "title": "É aquilo que você faz no seu cotidiano de maneira formal, seguindo um horário específico e ganhando em troca do seu esforço."
+                },
+                {
+                  "id": "c",
+                  "title": "É aquilo que você faz com contrato, mas não necessariamente ganhando um salário."
+                },
+                {
+                  "id": "d",
+                  "title": "É aquilo que você faz com um chefe ou de forma independente."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que é trabalho?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Produzir algo que tem a ver com você, que você gosta, que acrescenta algo ao mundo e que também pode te dar dinheiro."
+                },
+                {
+                  "id": "b",
+                  "title": "Produzir algo que não tem nada a ver com a sua profissão formal."
+                },
+                {
+                  "id": "c",
+                  "title": "Produzir algo que não tem a ver com o que você gosta, mas acrescenta algo ao mundo e te dá propósito."
+                },
+                {
+                  "id": "d",
+                  "title": "Produzir algo dentro de um emprego formal com salário fixo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "A Economia Freelancer",
+          "description": "Vamos aprender as características dessa economia e como é possível trabalhar sem ter um emprego.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334845187/95d8c05295",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que é a Gig Economy ou Economia Freelancer?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Trabalhos aleatórios e mal remunerados."
+                },
+                {
+                  "id": "b",
+                  "title": "É a forma de trabalho dos profissionais que não conseguem um emprego e precisam trabalhar fora das empresas."
+                },
+                {
+                  "id": "c",
+                  "title": "Um modelo de trabalho utilizado dentro das empresas para dar autonomia e liberdade."
+                },
+                {
+                  "id": "d",
+                  "title": "O futuro do trabalho, em que as pessoas não possuem um único emprego, mas ainda assim têm um trabalho."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que o Freelancer faz?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Trabalha em projetos diferentes fora da sua profissão."
+                },
+                {
+                  "id": "b",
+                  "title": "Trabalha em diversas áreas, atuando em projetos que são como vários empregos diferentes de curta duração."
+                },
+                {
+                  "id": "c",
+                  "title": "Além de seu emprego, também faz bicos nas horas extras."
+                },
+                {
+                  "id": "d",
+                  "title": "Tem mais de um emprego ao mesmo tempo."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Qual é a diferença entre empreender e ter uma empresa?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Ter uma empresa envolve ser líder e trabalhar com diversas pessoas. Empreender é possível sem ter uma empresa e trabalhando sozinho."
+                },
+                {
+                  "id": "b",
+                  "title": "Ter uma empresa envolve possuir registro e um lugar físico. Empreender não requer formalidades."
+                },
+                {
+                  "id": "c",
+                  "title": "Ter uma empresa envolve ser chefe de vários funcionários. Empreender é criar seu próprio negócio sem chefe."
+                },
+                {
+                  "id": "d",
+                  "title": "Ter uma empresa é o mesmo que ter um emprego. Empreender é ter o único jeito de ter um trabalho."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Novos negócios do futuro",
+          "description": "Vamos entender a origem dos novos tipos de negócio e do que é preciso para empreender.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334845414/2817285247",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Como os novos negócios surgem?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "A partir dos erros das empresas antigas e tradicionais. Por exemplo, as indústrias."
+                },
+                {
+                  "id": "b",
+                  "title": "A partir de novas necessidades dos consumidores. Por exemplo, não ter tempo para passear com o cachorro."
+                },
+                {
+                  "id": "c",
+                  "title": "A partir das tendências da internet. Por exemplo, os novos meios de comunicação."
+                },
+                {
+                  "id": "d",
+                  "title": "A partir das ideias das pessoas que começam a empreender. Por exemplo, a nova economia."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que é preciso para começar a empreender?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Ter um registro oficial como empreendedor."
+                },
+                {
+                  "id": "b",
+                  "title": "Ter todas as habilidades necessárias para o futuro do trabalho."
+                },
+                {
+                  "id": "c",
+                  "title": "Ter clareza do que gosta de fazer, das habilidades principais e estar disposto a dedicar tempo a isso."
+                },
+                {
+                  "id": "d",
+                  "title": "Ter vontade."
+                }
+              ]
+            }
+          ]
+        }
+
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "O Futuro do Trabalho",
+      "description": "Descobrindo as novas formas de trabalho que foram criadas a partir da Era Digital.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Novas formas de trabalho",
+          "description": "Vamos aprender o que é o MEI e como ele pode ser utilizado na prática.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334845553/17670158eb",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que significa MEI?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Um registro para quem quer ter mais de uma ocupação de trabalho."
+                },
+                {
+                  "id": "b",
+                  "title": "Um registro para freelancers."
+                },
+                {
+                  "id": "c",
+                  "title": "Um registro de pequenas empresas."
+                },
+                {
+                  "id": "d",
+                  "title": "Um registro de microempreendedor individual."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual das alternativas NÃO é um dos benefícios do MEI?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Registro como empreendedor."
+                },
+                {
+                  "id": "b",
+                  "title": "Poder abrir uma conta como pessoa jurídica."
+                },
+                {
+                  "id": "c",
+                  "title": "Receber investimento de grandes empresas."
+                },
+                {
+                  "id": "d",
+                  "title": "Se inscrever em aceleradoras."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "O que são serviços remotos?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Serviços prestados em casa."
+                },
+                {
+                  "id": "b",
+                  "title": "Serviços prestados através da internet, à distância."
+                },
+                {
+                  "id": "c",
+                  "title": "Serviços prestados fora da internet."
+                },
+                {
+                  "id": "d",
+                  "title": "Serviços prestados nas empresas envolvendo a internet."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Mudanças do mercado de trabalho",
+          "description": "Vamos aprender mais sobre as empresas e outros tipos de empreendedorismo.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334845733/ff54885eec",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Quais são os benefícios do MEI?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Ter o registro necessário para ser um empreendedor."
+                },
+                {
+                  "id": "b",
+                  "title": "Trabalhar menos e sem as cobranças de um emprego normal."
+                },
+                {
+                  "id": "c",
+                  "title": "Conquistar os direitos nacionais de todo empreendedor."
+                },
+                {
+                  "id": "d",
+                  "title": "Trabalhar em diferentes ocupações, sem burocracia e com toda a liberdade necessária."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que podemos usar para gerenciar nosso trabalho virtualmente?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Organizar as atividades em uma agenda virtual."
+                },
+                {
+                  "id": "b",
+                  "title": "Revezar entre o trabalho remoto e reuniões presenciais com outros profissionais."
+                },
+                {
+                  "id": "c",
+                  "title": "Programas de videoconferências, gerenciador de tarefas, \"nuvem\" de registro de documentos, entre outros."
+                },
+                {
+                  "id": "d",
+                  "title": "Manter arquivos físicos de tudo o que é feito, para caso precise gerenciar o histórico de trabalho."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "O que é uma empresa?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Um grupo de pessoas que se organiza, ou é organizado por um líder, para trabalhar junto por um propósito."
+                },
+                {
+                  "id": "b",
+                  "title": "Um grupo de pessoas que se auto-organiza para trabalhar voluntariamente em projetos."
+                },
+                {
+                  "id": "c",
+                  "title": "Um grupo de pessoas que se organiza para trabalhar em projetos diferentes com um mesmo objetivo."
+                },
+                {
+                  "id": "d",
+                  "title": "Um grupo grande de pessoas que é contratado para trabalhar com registro formal para uma marca."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Empreendedorismo em rede",
+          "description": "Vamos ver o que é empreendedorismo em rede na teoria e na prática.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334845946/55fb9ea22d",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que é empreendedorismo coletivo?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Profissionais que trabalham juntos para uma mesma marca."
+                },
+                {
+                  "id": "b",
+                  "title": "Profissionais independentes que se unem para empreender juntos por trás de uma marca."
+                },
+                {
+                  "id": "c",
+                  "title": "Profissionais independentes que são convocados por um líder para trabalharem para um projeto original."
+                },
+                {
+                  "id": "d",
+                  "title": "Profissionais independentes que criam uma marca juntos e a registram como empresa."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Como acontece o empreendedorismo em rede?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "As pessoas criam uma rede de empreendedores que se apoiam, mesmo trabalhando separados."
+                },
+                {
+                  "id": "b",
+                  "title": "As pessoas chamam outros profissionais independentes para trabalhar dentro de uma demanda específica de um projeto."
+                },
+                {
+                  "id": "c",
+                  "title": "As pessoas se unem para fazer projetos diferentes, só que trabalhando em um mesmo espaço. Por exemplo: um coworking."
+                },
+                {
+                  "id": "d",
+                  "title": "As pessoas chamam profissionais independente de áreas diferentes para trabalhar para uma nova marca original."
+                }
+              ]
+            }
+          ]
+        }
+
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "As Habilidades do Futuro",
+      "description": "Mapeando as habilidades mais importantes para a construção do futuro do trabalho após a Era Digital.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Habilidades comportamentais e cognitivas",
+          "description": "Vamos conhecer as habilidades mais importantes do futuro do trabalho.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334846084/1e3027099c",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que são as habilidades do futuro?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Habilidades que nos fazem mais humanos."
+                },
+                {
+                  "id": "b",
+                  "title": "Habilidades que só vão existir no futuro."
+                },
+                {
+                  "id": "c",
+                  "title": "Habilidades que serão dispensáveis no futuro."
+                },
+                {
+                  "id": "d",
+                  "title": "Habilidades que representam o futuro que queremos criar."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Como são divididas as habilidades do futuro?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Habilidades comportamentais e habilidades mentais."
+                },
+                {
+                  "id": "b",
+                  "title": "Habilidades sociais e habilidades cognitivas."
+                },
+                {
+                  "id": "c",
+                  "title": "Habilidades comportamentais e habilidades cognitivas."
+                },
+                {
+                  "id": "d",
+                  "title": "Habilidades cognitivas e habilidades intelectuais."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Quais dessas alternativas NÃO fazem parte das habilidades comportamentais?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Gestão do tempo"
+                },
+                {
+                  "id": "b",
+                  "title": "Oratória"
+                },
+                {
+                  "id": "c",
+                  "title": "Adaptabilidade"
+                },
+                {
+                  "id": "d",
+                  "title": "Comunicação"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Outras habilidades do futuro",
+          "description": "Vamos continuar aprendendo sobre as habilidades comportamentais e cognitivas.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334846383/c6f4aeab7f",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Quais dessas alternativas NÃO fazem parte das habilidades cognitivas?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Solução de problemas"
+                },
+                {
+                  "id": "b",
+                  "title": "Criatividade"
+                },
+                {
+                  "id": "c",
+                  "title": "Negociação"
+                },
+                {
+                  "id": "d",
+                  "title": "Lógica"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Segundo a professora, no que se resumem as habilidades do futuro?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Autoconhecimento, autonomia e liderança."
+                },
+                {
+                  "id": "b",
+                  "title": "Autoconhecimento, empatia e autonomia."
+                },
+                {
+                  "id": "c",
+                  "title": "Empatia, autonomia e relações interpessoais."
+                },
+                {
+                  "id": "d",
+                  "title": "Empatia, criatividade e adaptabilidade."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "O que é empatia?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Decifrar os sentimentos e pensamentos do outro."
+                },
+                {
+                  "id": "b",
+                  "title": "Racionalizar os sentimentos do outro para conseguir entendê-los."
+                },
+                {
+                  "id": "c",
+                  "title": "Escutar o outro para saber o que ele sente sobre algo."
+                },
+                {
+                  "id": "d",
+                  "title": "Se colocar no lugar do outro, entender seus sentimentos e praticar a escuta ativa."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Lifelong Learning",
+          "description": "Vamos aprender o que é Lifelong Learning e qual a importância dele para o futuro.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334846644/92b09c4496",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Segundo a professora, o que o mundo está exigindo dos profissionais?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Autonomia e liderança."
+                },
+                {
+                  "id": "b",
+                  "title": "Proatividade para fazer as coisas acontecerem."
+                },
+                {
+                  "id": "c",
+                  "title": "Que eles estejam aprendendo coisas novas o tempo todo."
+                },
+                {
+                  "id": "d",
+                  "title": "Capacidade de se adaptar a vários cenários."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que é Lifelong Learning?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Continuar sempre aprendendo ao longo da vida."
+                },
+                {
+                  "id": "b",
+                  "title": "Aprender coisas diferentes em momentos diferentes da vida."
+                },
+                {
+                  "id": "c",
+                  "title": "Aprender uma coisa diferente todos os dias."
+                },
+                {
+                  "id": "d",
+                  "title": "Prosseguir com os estudos mesmo depois da formação tradicional."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "De quem é o futuro?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Dos robôs."
+                },
+                {
+                  "id": "b",
+                  "title": "Das crianças."
+                },
+                {
+                  "id": "c",
+                  "title": "Do governo."
+                },
+                {
+                  "id": "d",
+                  "title": "De todos nós."
+                }
+              ]
+            }
+          ]
+        }
+
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

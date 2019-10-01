@@ -1,0 +1,1538 @@
+{
+  "id": "",
+  "title": "PNL — Programação Neurolinguística",
+  "description": "Depois de assistir essas aulas, você nunca mais será a mesma pessoa e conquistara todos os seus objetivos.  Mudara a forma de pensar sobre o cérebro e seu subconsciente.  Pode pá e cola pra conferir #PARTIUPNL",
+  "author": "Roberto Goncalves",
+  "author_info": "Roberto, se quiser, pode chama-lo de BOB também. Faz parte do grupo mundial de voluntários dos cursos do famoso americano Tony Robbins. O Bob tem um coração gigante e adora ajudar as pessoas que estão começando. Um cara mega, ultra, blaster inteligente. Ele é Pai, marido, empresário, surfista e alem de tudo, sabe pilotar avião. O Bob, alem de carros, também adoro um cafezinho com pão de queijo, se precisar de um conselho, já sabe quem pode chamar.",
+  "year": 2019,
+  "lessons": [
+    {
+      "id": "1",
+      "title": "Os Princípios da PNL",
+      "description": "Entendendo o que é PNL, sua origem e quais são os principais conceitos da teoria.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "PN… o quê?",
+          "description": "Vamos descobrir o que é PNL e por que ela existe.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334503517/36603c5173",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que é PNL?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Uma técnica para influenciar as decisões das pessoas."
+                },
+                {
+                  "id": "b",
+                  "title": "Uma ferramenta de desenvolvimento pessoal."
+                },
+                {
+                  "id": "c",
+                  "title": "Uma das metodologias da psicologia."
+                },
+                {
+                  "id": "d",
+                  "title": "Uma tecnologia de programação."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Quem criou a PNL?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Richard Bandler e John Grinder."
+                },
+                {
+                  "id": "b",
+                  "title": "Richard Bandler e John Growth."
+                },
+                {
+                  "id": "c",
+                  "title": "Richard Bandler e Steve Jobs."
+                },
+                {
+                  "id": "d",
+                  "title": "Steve Jobs e John Grinder."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Qual é a vantagem da PNL?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Entender como as pessoas reagem aos estímulos neurológicos."
+                },
+                {
+                  "id": "b",
+                  "title": "Fazer com que as pessoas acreditem no que você quiser."
+                },
+                {
+                  "id": "c",
+                  "title": "Obter melhores resultados para ter uma vida mais feliz e mais plena."
+                },
+                {
+                  "id": "d",
+                  "title": "Ser capaz de programar pessoas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Cérebro e Mente",
+          "description": "Vamos entender qual é a relação da PNL com o nosso cérebro.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334504164/0b816c5c32",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Como funciona o processamento do nosso cérebro?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "De forma consciente."
+                },
+                {
+                  "id": "b",
+                  "title": "De forma inconsciente."
+                },
+                {
+                  "id": "c",
+                  "title": "De forma subconsciente."
+                },
+                {
+                  "id": "d",
+                  "title": "Nenhuma das anteriores."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "No que a PNL pode nos ajudar?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Ter uma comunicação melhor com nós mesmos."
+                },
+                {
+                  "id": "b",
+                  "title": "Ter uma comunicação melhor com as pessoas."
+                },
+                {
+                  "id": "c",
+                  "title": "Ter uma comunicação melhor com o nosso cérebro."
+                },
+                {
+                  "id": "d",
+                  "title": "Ter uma comunicação melhor com a nossa mente inconsciente."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Do que é formada a nossa realidade?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Das conclusões que nós mesmos tiramos a partir de nossas crenças."
+                },
+                {
+                  "id": "b",
+                  "title": "Das imagens que observamos e que são processadas pelo nosso cérebro."
+                },
+                {
+                  "id": "c",
+                  "title": "Da percepção das pessoas sobre nós mesmos."
+                },
+                {
+                  "id": "d",
+                  "title": "Do contexto em que vivemos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Tony Robbins",
+          "description": "Vamos conhecer a história de Tony Robbins.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334504729/941c25675d",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Quem é Tony Robbins?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Um dos profissionais mais importantes da PNL na atualidade."
+                },
+                {
+                  "id": "b",
+                  "title": "Um cientista que estudou a PNL por muitos anos."
+                },
+                {
+                  "id": "c",
+                  "title": "Um dos primeiros homens que foram influenciados pela PNL."
+                },
+                {
+                  "id": "d",
+                  "title": "Um dos primeiros profissionais de neurolinguística do Brasil."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que significa a frase “o mapa não é o território”?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Que nem todos os mapas trazem todas a respostas."
+                },
+                {
+                  "id": "b",
+                  "title": "Que não há um mapa que possa nos mostrar um território com profundidade."
+                },
+                {
+                  "id": "c",
+                  "title": "Que o mesmo evento vivido por duas pessoas diferentes traz significados diferentes para cada uma delas."
+                },
+                {
+                  "id": "d",
+                  "title": "Que o território das nossas mentes não pode ser resumido em um mapa."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Qual é o resultado da PNL em nossas vidas?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Saber lidar com seus defeitos e fraquezas."
+                },
+                {
+                  "id": "b",
+                  "title": "Saber lidar com o inconsciente e dar uma melhor interpretação para as coisas que acontecem ao nosso redor."
+                },
+                {
+                  "id": "c",
+                  "title": "Saber lidar com seus pensamentos e emoções."
+                },
+                {
+                  "id": "d",
+                  "title": "Saber lidar com a mente consciente para alcançar o sucesso."
+                }
+              ]
+            }
+          ]
+        }
+
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "",
+      "description": "",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Por que fazemos o que fazemos?",
+          "description": "Vamos entender como funciona a nossa mente na prática.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334505226/a43229186d",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que é o gênero homo?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "O ser humano."
+                },
+                {
+                  "id": "b",
+                  "title": "A evolução humana."
+                },
+                {
+                  "id": "c",
+                  "title": "Somente os homens."
+                },
+                {
+                  "id": "d",
+                  "title": "A espécie que deu origem ao ser humano."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Há quanto tempo existe o gênero homo?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Há cerca de 5 milhões de anos."
+                },
+                {
+                  "id": "b",
+                  "title": "Há cerca de 4.5 milhões de anos."
+                },
+                {
+                  "id": "c",
+                  "title": "Há cerca de 5.4 milhões de anos."
+                },
+                {
+                  "id": "d",
+                  "title": "Há cerca de 4 milhões de anos."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Para que serve o sistema natural de programação do nosso cérebro?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Para garantir a nossa sobrevivência."
+                },
+                {
+                  "id": "b",
+                  "title": "Para que possamos fazer as coisas no piloto automático."
+                },
+                {
+                  "id": "c",
+                  "title": "Para que possamos acumular conhecimento."
+                },
+                {
+                  "id": "d",
+                  "title": "Para que nossos pensamentos sejam possíveis."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "A sobrevivência humana",
+          "description": "Vamos ver alguns dos mecanismos de sobrevivência que herdamos da nossa espécie antes da civilização moderna.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334505832/2ead603096",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Há quanto tempo existe a civilização moderna?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Há apenas mil anos."
+                },
+                {
+                  "id": "b",
+                  "title": "Há mais de 10 mil anos."
+                },
+                {
+                  "id": "c",
+                  "title": "Há apenas 10 mil anos."
+                },
+                {
+                  "id": "d",
+                  "title": "Há mais de 20 mil anos."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que é pareidolia?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "A capacidade de ver imagens."
+                },
+                {
+                  "id": "b",
+                  "title": "A capacidade de dar vida a imagens."
+                },
+                {
+                  "id": "c",
+                  "title": "A capacidade de interpretar imagens abstratas."
+                },
+                {
+                  "id": "d",
+                  "title": "A capacidade de ver rostos, animais e outros formatos em formas abstratas."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Se nossas mentes já vêm pré-programas com uma série de “softwares” desde o nosso nascimento, qual é o papel da PNL em nossas vidas?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Desinstalar estes softwares antigos."
+                },
+                {
+                  "id": "b",
+                  "title": "Atualizar nossa mente com novos softwares mais eficazes."
+                },
+                {
+                  "id": "c",
+                  "title": "Instalar novos aplicativos dentro do software original."
+                },
+                {
+                  "id": "d",
+                  "title": "Nenhuma das anteriores."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "A Tríade da PNL",
+      "description": "Aprendendo algumas técnicas da PNL para melhorar o desempenho pessoal.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Desempenho humano",
+          "description": "Vamos entender como funciona nosso desempenho e o que é entusiasmo.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334506547/f1c67fa875",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que mais prejudica nosso desempenho?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "A ausência de conhecimento."
+                },
+                {
+                  "id": "b",
+                  "title": "O desinteresse."
+                },
+                {
+                  "id": "c",
+                  "title": "Estados emocionais ruins."
+                },
+                {
+                  "id": "d",
+                  "title": "Falta de recursos."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual é o significado da palavra “entusiasmado”?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "“Entus” é Deus. É o cara que tem fé."
+                },
+                {
+                  "id": "b",
+                  "title": "“Entus” é Deus. É o cara que tem uma religião, uma crença."
+                },
+                {
+                  "id": "c",
+                  "title": "“Entus” é Deus. É o cara que acredita em algo maior do que ele mesmo."
+                },
+                {
+                  "id": "d",
+                  "title": "“Entus” é Deus. É o cara que está “cheio de Deus”."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Quais são os pilares da tríade do Método Tony Robbins?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Corpo, mente e espírito."
+                },
+                {
+                  "id": "b",
+                  "title": "Fisiologia, emoção e objetivo."
+                },
+                {
+                  "id": "c",
+                  "title": "Fisiologia, linguagem e foco."
+                },
+                {
+                  "id": "d",
+                  "title": "Fisiologia, expressão e foco."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Estado emocional e foco mental",
+          "description": "Vamos aprender uma ferramenta eficaz para ter domínio de nossa mente e nossas emoções.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334507320/b16461de23",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Em qual pilar da tríade devemos mexer para mudar nosso estado mental/emocional? ",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Fisiologia."
+                },
+                {
+                  "id": "b",
+                  "title": "Foco."
+                },
+                {
+                  "id": "c",
+                  "title": "Linguagem."
+                },
+                {
+                  "id": "d",
+                  "title": "Qualquer um deles pode impactar seu estado."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Pensando no que você aprendeu sobre PNL, complete a frase: Nossos pensamentos têm o poder de…",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Definir nossas escolhas."
+                },
+                {
+                  "id": "b",
+                  "title": "Definir nossas atitudes."
+                },
+                {
+                  "id": "c",
+                  "title": "Definir nosso estado emocional."
+                },
+                {
+                  "id": "d",
+                  "title": "Definir nossas crenças."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Qual é a característica principal que pode impactar os resultados de uma pessoa?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Entusiasmo."
+                },
+                {
+                  "id": "b",
+                  "title": "Proatividade."
+                },
+                {
+                  "id": "c",
+                  "title": "Foco."
+                },
+                {
+                  "id": "d",
+                  "title": "Pensamentos positivos."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Pensamentos positivos.",
+      "description": "Entendendo qual é o impacto que as crenças têm sobre nossos resultados e como alcançar o sucesso.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Peak State",
+          "description": "Vamos ver os resultados de um estado emocional elevado e aprender alguns conselhos da PNL.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334508079/bba0bf4c9e",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Segundo o professor, o que é o Peak State?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Estado de emoção e mentalidade elevado que alcançamos quando alteramos nossa linguagem."
+                },
+                {
+                  "id": "b",
+                  "title": "Estado mental elevado em que entramos quando mudamos nossas fisiologia, linguagem e foco."
+                },
+                {
+                  "id": "c",
+                  "title": "Estado emocional elevado em que entramos quando mudamos nossa fisiologia, linguagem e foco mental."
+                },
+                {
+                  "id": "d",
+                  "title": "Estado mental em que entramos quando estamos entusiasmados."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Quais das alternativas seguintes NÃO é uma dica do Tony Robbins?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Saiba qual é o seu propósito."
+                },
+                {
+                  "id": "b",
+                  "title": "Sonhe de forma realista e objetiva."
+                },
+                {
+                  "id": "c",
+                  "title": "Dê sempre um significado positivo para as suas experiências."
+                },
+                {
+                  "id": "d",
+                  "title": "Esteja ciente da sua responsabilidade e das consequências."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Qual é a ordem do Ciclo do Sucesso, que estava na apresentação do professor? Você deu aquela espiada?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Crenças — Potencial — Ações — Resultados — Crenças"
+                },
+                {
+                  "id": "b",
+                  "title": "Potencial —  Crenças — Ações  — Resultado final"
+                },
+                {
+                  "id": "c",
+                  "title": "Potencial — Ações — Resultados — Potencial"
+                },
+                {
+                  "id": "d",
+                  "title": "Crenças — Ações — Resultados —  Potencial"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "A visualização de resultados",
+          "description": "Vamos aprender a utilizar o Ciclo do Sucesso para modificar nossas crenças e conseguir melhores resultados.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334508873/f7ca257e95",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Como quebramos o ciclo para alcançar o sucesso?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Mudando nosso estado emocional."
+                },
+                {
+                  "id": "b",
+                  "title": "Mudando o nosso contexto social."
+                },
+                {
+                  "id": "c",
+                  "title": "Mudando nossos objetivos."
+                },
+                {
+                  "id": "d",
+                  "title": "Mudando nossas crenças."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que podemos fazer para mudar nossas crenças e aumentar os nossos resultados?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Visualizar os resultados antes deles acontecerem."
+                },
+                {
+                  "id": "b",
+                  "title": "Mudar a maneira como interpretamos as nossas experiências."
+                },
+                {
+                  "id": "c",
+                  "title": "Despertar nossas crenças por meio de novas experiências."
+                },
+                {
+                  "id": "d",
+                  "title": "Nos aproximar de pessoas que possuem crenças mais positivas."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "O que o estado emocional e a fisiologia fazem com o nosso corpo?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Provocam alterações no nosso cérebro."
+                },
+                {
+                  "id": "b",
+                  "title": "Provocam alterações nos nossos hormônios."
+                },
+                {
+                  "id": "c",
+                  "title": "Mudam a nossa postura diante das situações."
+                },
+                {
+                  "id": "d",
+                  "title": "Nenhuma das anteriores."
+                }
+              ]
+            }
+          ]
+        }
+
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "As Necessidades Humanas",
+      "description": "Entendendo o comportamento e as necessidades emocionais que moldam nossa realidade.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Comportamento humano",
+          "description": "Vamos começar a entender as necessidades emocionais humanas.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334509733/887cea1824",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Quais são as necessidades fisiológicas básicas do ser humano?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Fazer atividades físicas."
+                },
+                {
+                  "id": "b",
+                  "title": "Respirar e dormir."
+                },
+                {
+                  "id": "c",
+                  "title": "Beber água e comer."
+                },
+                {
+                  "id": "d",
+                  "title": "Respirar, dormir, beber água, comer e ir no banheiro."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "As pessoas fazem as coisas para suprir qual necessidade humana?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "As necessidades emocionais."
+                },
+                {
+                  "id": "b",
+                  "title": "As necessidades fisiológicas."
+                },
+                {
+                  "id": "c",
+                  "title": "A necessidade de sobrevivência."
+                },
+                {
+                  "id": "d",
+                  "title": "A necessidade de segurança."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Como definimos a “certeza”, primeira necessidade emocional do ser humano?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "É a garantia de que você vai obter prazer."
+                },
+                {
+                  "id": "b",
+                  "title": "É a garantia de resultados de sucesso."
+                },
+                {
+                  "id": "c",
+                  "title": "É a garantia de que você pode evitar a dor e obter prazer."
+                },
+                {
+                  "id": "d",
+                  "title": "É a garantia de que você possui potencial."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "As 6 necessidades emocionais",
+          "description": "Vamos aprofundar nas 6 necessidades emocionais do ser humano.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334510249/cffdcf5f27",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Como nosso instinto toma decisões?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Estamos sempre indo de encontro ao prazer ou fugindo da dor."
+                },
+                {
+                  "id": "b",
+                  "title": "Nosso corpo responde aos estímulos de dor."
+                },
+                {
+                  "id": "c",
+                  "title": "O cérebro toma todas as nossas decisões por nós."
+                },
+                {
+                  "id": "d",
+                  "title": "Tudo o que fazemos é pelo prazer."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que significa a necessidade de significância?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Dar sentido e propósito às coisas que faz."
+                },
+                {
+                  "id": "b",
+                  "title": "Escolher aquilo que tem significado para você."
+                },
+                {
+                  "id": "c",
+                  "title": "Saber que você é importante para uma pessoa específica."
+                },
+                {
+                  "id": "d",
+                  "title": "Sentir-se único, de valor, importante e pertencente."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Quais das alternativas NÃO pertencem às 6 necessidades emocionais?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Variedade e Certeza."
+                },
+                {
+                  "id": "b",
+                  "title": "Certeza e Pertencimento."
+                },
+                {
+                  "id": "c",
+                  "title": "Conexão e Crescimento."
+                },
+                {
+                  "id": "d",
+                  "title": "Contribuição e Significância."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Ferramenta de autoconhecimento",
+          "description": "Vamos aprender a utilizar as 6 necessidades emocionais na prática como ferramenta de autoconhecimento.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334510680/bfab0a8353",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Qual é o grande segredo das 6 necessidades emocionais?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Podemos mudar nossos valores e crenças para que nossas necessidades se voltem para o Crescimento e a Contribuição."
+                },
+                {
+                  "id": "b",
+                  "title": "Podemos mudar nossos resultados para gerar maior significância em nossas ações."
+                },
+                {
+                  "id": "c",
+                  "title": "Podemos mudar nossas necessidades para criar impactos mais positivos."
+                },
+                {
+                  "id": "d",
+                  "title": "Podemos mudar nossos valores para gerar mais diversidade."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Como as 6 necessidades emocionais impactam as nossas vidas?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Necessidades melhores criam resultados de sucesso."
+                },
+                {
+                  "id": "b",
+                  "title": "Quando cedemos às nossas necessidades, nos tornamos fracos e menos competentes."
+                },
+                {
+                  "id": "c",
+                  "title": "As duas maiores necessidades de uma pessoa é o que guia a vida dela."
+                },
+                {
+                  "id": "d",
+                  "title": "As nossas necessidades definem quem somos pelo resto da vida."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Qual é a importância de conhecer suas necessidades emocionais?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Conhecer mais a si mesmo."
+                },
+                {
+                  "id": "b",
+                  "title": "Aprender a identificar as necessidades emocionais dos outros."
+                },
+                {
+                  "id": "c",
+                  "title": "Saber como tornar nossas necessidades mais automáticas."
+                },
+                {
+                  "id": "d",
+                  "title": "Adquirir consciência sobre os processos que acontecem dentro de você."
+                }
+              ]
+            }
+          ]
+        }
+
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Crenças e Veículos",
+      "description": "Entendendo como utilizar nossas crenças e valores para impactar positivamente a sociedade.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Crenças e Valores",
+          "description": "Vamos aprender como as crenças e valores afetam os nossos resultados.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334510848/26bf93a4a0",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "Pelo que as nossas crenças e valores são definidas?",
+              "correct": "c",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Pela nossa família."
+                },
+                {
+                  "id": "b",
+                  "title": "Pelo contexto social."
+                },
+                {
+                  "id": "c",
+                  "title": "Pela interpretação que damos para as circunstâncias do nosso contexto."
+                },
+                {
+                  "id": "d",
+                  "title": "Pelas pessoas que admiramos."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que acontece quando deixamos essas crenças e valores agirem de forma automática?",
+              "correct": "a",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Elas geram pensamentos que mudam nosso estado emocional e influenciam nossas ações e resultados."
+                },
+                {
+                  "id": "b",
+                  "title": "Elas geram emoções e pensamentos negativos."
+                },
+                {
+                  "id": "c",
+                  "title": "Elas geram ações negativas que afetam nossos resultados e despertam emoções ruins."
+                },
+                {
+                  "id": "d",
+                  "title": "Elas geram resultados negativos que influenciam nossos pensamentos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Consciência das necessidades",
+          "description": "Vamos aprender a utilizar nossas crenças, valores e necessidades de forma consciente.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334511114/d5b72421e9",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "O que NÃO devemos fazer para dar significados positivos às experiências da vida?",
+              "correct": "d",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Mudar o foco para uma coisa positiva."
+                },
+                {
+                  "id": "b",
+                  "title": "Mudar a postura."
+                },
+                {
+                  "id": "c",
+                  "title": "Mudar a linguagem."
+                },
+                {
+                  "id": "d",
+                  "title": "Mudar os relacionamentos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Veículos positivos e negativos",
+          "description": "Vamos entender a importância de escolher veículos positivos para as nossas necessidades.",
+          "number": 0,
+          "part": 0,
+          "duration": "",
+          "vimeo": "https://vimeo.com/334511666/e87f5016c3",
+          "youtube": "",
+          "image": "",
+          "comprehension_test": [
+            {
+              "id": "1",
+              "title": "De que forma podemos contribuir para a sociedade?",
+              "correct": "b",
+              "score": 0,
+              "answers": [
+                {
+                  "id": "a",
+                  "title": "Gerando resultados."
+                },
+                {
+                  "id": "b",
+                  "title": "Utilizando veículos positivos para suprir as nossas necessidades."
+                },
+                {
+                  "id": "c",
+                  "title": "Criando objetivos voltados para questões sociais."
+                },
+                {
+                  "id": "d",
+                  "title": "Mudando nossa postura e estado emocional."
+                }
+              ]
+            }
+          ]
+        }
+
+      ],
+      "placement_test": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "finalTest" : [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "answers": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
